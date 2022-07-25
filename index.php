@@ -33,15 +33,4 @@
 </section>
 
 
-
-<section class='help-us'>
-<inner-column>
-
-	<?php include('modules/call-to-action.php'); ?>
-
-</inner-column>
-</section>
-
-
-
 <?php include('footer.php'); ?>

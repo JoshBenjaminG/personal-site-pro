@@ -1,7 +1,6 @@
 
 graphic-diptych {
   display: block;
-  padding:  20px;
   padding-top: 4vh;
   padding-bottom: 4vh;
   /* */
@@ -11,13 +10,18 @@ graphic-diptych {
 }
 
 graphic-diptych text-content {
-  display: block;
+  display: flex;
+  flex-direction: column;
+}
+
+.developer {
+
 }
 
 @media (min-width: 660px) {
   graphic-diptych {
     flex-direction: row;
-    align-items: center;
+  
   }
 
   graphic-diptych :is(picture, text-content) {

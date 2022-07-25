@@ -15,6 +15,10 @@ call-to-action a {
 
 @media (min-width: 600px) {
   call-to-action {
-    padding: 100px;
+    
   }
+}
+
+call-to-action span {
+  font-weight: bold;
 }
