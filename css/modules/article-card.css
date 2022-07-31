@@ -20,6 +20,10 @@ article-card  {
   min-height: 55vh;
 }
 
+article-card p {
+  margin-bottom: 10px;
+}
+
 article-card  a {
   margin-top: auto;
   color: #b5e5ff;
