@@ -14,7 +14,7 @@ $database = [ // an associative array (Array of key:value pairs)
 		"url" => "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/",
 	],
 	[
-		"heading" => "Exercises for Programmers 4",
+		"heading" => "Coding Exercises",
 		"description" => "Some solutions to a nifty book full of language-agnostic challenges designed to develop your coding skills.",
 		"thumbnail" => "https://peprojects.dev/images/landscape.jpg",
 		"url" => "https://peprojects.dev/alpha-3/josh/projects/e4p/",

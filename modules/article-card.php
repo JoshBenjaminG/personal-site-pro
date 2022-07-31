@@ -13,15 +13,11 @@
 		<img src='<?=$thumbnail?>' loading='lazy' alt='$todo'>
 	</picture>
 
-	<text-content>
-
 	<h2 class='attention-voice'><?=$article["heading"]?></h2>
 
 	<p class='calm-voice'><?=$article["description"]?></p>
 
-	<a class='calm-voice' href='<?=$article["url"]?>'>
-		<span>Read more</span>
-	</a>
-	</text-content>
+	<a class='calm-voice' href='<?=$article["url"]?>'>Read More</a>
 
 </article-card>
+
