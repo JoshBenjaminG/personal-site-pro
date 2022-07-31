@@ -1,36 +1,15 @@
-
-
-<?php include('header.php'); ?>
-
-
-
-<section class='welcome'>
-<inner-column>
-
-	<?php include('modules/graphic-diptych.php'); ?>
-
-</inner-column>
-</section>
-
-
-
-<section class='get-involved'>
-<inner-column>
-
-	<?php include('modules/call-to-action.php'); ?>
-
-</inner-column>
-</section>
-
-
-
-<section class='stuff'>
-<inner-column>
+<?php 
 	
-	<?php include('modules/articles-intro.php'); ?>
+if(isset($_GET['page'])) {
+	$page = $_GET['page'];
+} else {
+	$page = 'home';
+}
 
-</inner-column>
-</section>
+include('header.php');
 
+include($page . '.php');
 
-<?php include('footer.php'); ?>
+include('footer.php');
+
+?>

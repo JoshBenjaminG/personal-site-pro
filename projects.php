@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+
 
 <section class='stuff'>
 <inner-column>
@@ -8,4 +8,3 @@
 </inner-column>
 </section>
 
-<?php include('footer.php'); ?>

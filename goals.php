@@ -1,5 +1,3 @@
-<?php include('header.php'); ?>
-
 <?php 
 
     $sections = [
@@ -46,5 +44,3 @@
 	</ul>
 </inner-column>
 </section>
-
-<?php include('footer.php'); ?>

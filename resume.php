@@ -1,6 +1,6 @@
 
 
-<?php include('header.php'); 
+<?php 
 	$items = [
 		"section-1" => [
 			"heading" => "Interests",
@@ -43,4 +43,4 @@
 </inner-column>
 </section>
 
-<?php include('footer.php'); ?>
+

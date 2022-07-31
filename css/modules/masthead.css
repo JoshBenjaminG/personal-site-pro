@@ -7,6 +7,7 @@ mast-head nav {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 mast-head .logo {
@@ -16,7 +17,8 @@ mast-head .logo {
 mast-head a {
   font-family: sans-serif;
   font-size: 1rem;
-  padding:  10px;
+  padding: 10px 0px 5px 0px;
+  margin: 0px 6px 0px 6px;
   color: black;
 }
 

@@ -1,6 +1,6 @@
 
 .loud-voice	{
-	font-family: sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: clamp(36px, 5vw, 60px);
 }
 @media (min-width: 600px) {
@@ -10,12 +10,12 @@
 }
 
 .intro-voice	{
-	font-family: sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 40px;
 }
 
 .attention-voice	{
-	font-family: sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 }
 
@@ -24,10 +24,16 @@
 }
 
 .calm-voice {
-	font-family: sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1rem;
 	line-height: 1.4;
 }
+
+.greetings
+
+.josh
+
+.developer
 
 /* these would be scoped to section or to an article element */
 /* this is just a loose setting for now $todo */
