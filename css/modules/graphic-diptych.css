@@ -6,10 +6,14 @@ graphic-diptych {
   /* */
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  
   min-height: 70vh;
   align-items: center;
   justify-content: center;
+}
+
+landing-logo {
+  width: 500px;
 }
 
 graphic-diptych text-content {

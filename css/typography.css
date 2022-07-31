@@ -29,11 +29,20 @@
 	line-height: 1.4;
 }
 
-.greetings
+.greetings {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+}
 
-.josh
+.josh {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 90px
+}
 
-.developer
+.developer {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+}
 
 /* these would be scoped to section or to an article element */
 /* this is just a loose setting for now $todo */
