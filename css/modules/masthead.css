@@ -1,7 +1,13 @@
 
 mast-head {
-  display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  mast-head .logo {
+  margin-bottom: 0px;
 }
+
 
 mast-head nav {
   display: flex;
@@ -12,7 +18,6 @@ mast-head nav {
 
 mast-head .logo {
   max-width:  50px;
-  margin-bottom: 15px;
 }
 
 mast-head a {
@@ -24,12 +29,5 @@ mast-head a {
 }
 
 @media (min-width: 600px) {
-  mast-head {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-  }
-  mast-head .logo {
-  margin-bottom: 0px;
-}
+  
 }

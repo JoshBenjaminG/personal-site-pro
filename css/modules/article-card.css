@@ -24,9 +24,9 @@ article-card p {
   margin-bottom: 10px;
 }
 
-article-card  a {
+article-card a {
   margin-top: auto;
-  color: #b5e5ff;
+  color: #ffbb94;
   max-width: 200px; 
   text-align: center;
   padding: 10px 30px 10px 30px;
@@ -34,12 +34,12 @@ article-card  a {
 }
 
 article-card a {
-  background-color: #111337;
+  background-color: #f43c3c;
   transition: background-color 0.1s linear;
 }
 
 article-card a:hover {
-  background-color: #123c73;
+  background-color: #f65b5a;
   transition: background-color 0.1s linear;
 }
 

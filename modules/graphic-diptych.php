@@ -1,7 +1,7 @@
 
 <graphic-diptych>
 	<landing-logo>
-		<?php include('icons/landing.svg'); ?>
+		<?php include('images/JG-logo2.svg'); ?>
 	</landing-logo>
 
 <!-- 	<text-content>

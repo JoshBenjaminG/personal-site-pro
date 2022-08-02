@@ -72,7 +72,7 @@ html {
 }
 
 .welcome {
-  background-color: #111337;
+  background-color: #fffcf5;
 }
 
 
@@ -80,7 +80,7 @@ html {
 
 
 .get-involved {
-  background-color:  background-color: #ffffff;;
+  background-color: #fffcf5;
   background-image:  url("data:image/svg+xml,%3Csvg width='4' height='4' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23000000' fill-opacity='0.2' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
 } /* interesting way to include the whole image in your CSS */
 
@@ -94,7 +94,7 @@ html {
 
 
 .stuff {
-  background-color: #f6f6f6;
+  background-color: #fffcf5;
 }
 
 .help-us {

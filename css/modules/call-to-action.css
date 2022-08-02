@@ -11,6 +11,12 @@ call-to-action {
 
 call-to-action a {
   margin-top:  20px;
+  text-decoration: none;
+  color: #f43c3c;
+}
+
+call-to-action p span {
+  font-style: italic;
 }
 
 @media (min-width: 600px) {
