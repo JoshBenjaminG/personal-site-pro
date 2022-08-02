@@ -26,15 +26,20 @@ article-card p {
 
 article-card a {
   margin-top: auto;
-  color: #ffbb94;
+  color: white;
   max-width: 200px; 
   text-align: center;
   padding: 10px 30px 10px 30px;
   margin-bottom: 10px;
 }
 
+.project-a {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+}
+
 article-card a {
-  background-color: #f43c3c;
+  background-color: #f43f3d;
   transition: background-color 0.1s linear;
 }
 

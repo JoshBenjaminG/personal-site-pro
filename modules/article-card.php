@@ -17,7 +17,7 @@
 
 	<p class='calm-voice'><?=$article["description"]?></p>
 
-	<a class='calm-voice' href='<?=$article["url"]?>'>Read More</a>
+	<a href='<?=$article["url"]?>' class="project-a">READ MORE</a>
 
 </article-card>
 
