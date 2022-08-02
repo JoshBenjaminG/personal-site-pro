@@ -21,3 +21,8 @@
   transform: scaleX(1);
   transform-origin: bottom left;
 }
+
+.logo:hover {
+  transition: .2s;
+  opacity: 0.6;
+}
