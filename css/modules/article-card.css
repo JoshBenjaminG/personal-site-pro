@@ -6,6 +6,7 @@ article-card {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  background-color: white;
 }
 
 article-card h2 {
@@ -16,7 +17,7 @@ article-card  {
   display: block;
   display: flex;
   flex-direction: column;
-  padding: 10px;
+  padding: 15px;
   min-height: 55vh;
 }
 
@@ -27,15 +28,15 @@ article-card p {
 article-card a {
   margin-top: auto;
   color: white;
-  max-width: 200px; 
   text-align: center;
-  padding: 10px 30px 10px 30px;
-  margin-bottom: 10px;
+  padding: 10px 20px;
+
 }
 
 .project-a {
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
+  letter-spacing: 0.04em;
 }
 
 article-card a {
@@ -72,7 +73,8 @@ article-card:hover {
 }
 
 .tech {
-  opacity: 0.4;
+  font-style: italic;
+  color: #ffbb94;
 }
 
 

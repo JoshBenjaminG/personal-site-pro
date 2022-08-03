@@ -3,11 +3,11 @@ mast-head {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+
   }
   mast-head .logo {
   margin-bottom: 0px;
 }
-
 
 mast-head nav {
   display: flex;
@@ -17,14 +17,17 @@ mast-head nav {
 }
 
 mast-head .logo {
-  max-width:  50px;
+  max-width:  40px;
 }
 
 mast-head a {
   font-family: sans-serif;
   font-size: 1rem;
-  margin: 0px 6px 0px 6px;
   padding-bottom: 5px;
+}
+
+.user-menu a {
+  margin: 0px 0px 0px 25px;
 }
 
 @media (min-width: 600px) {

@@ -19,7 +19,7 @@
 
 	<p class='calm-voice'><?=$article["description"]?></p>
 
-	<a href='<?=$article["url"]?>' class="project-a">READ MORE</a>
+	<a href='?page=detail&project=<?=$article["slug"]?>' class="project-a">READ MORE</a>
 
 </article-card>
 

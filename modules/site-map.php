@@ -15,7 +15,7 @@
 		<a href="https://codepen.io/JoshuaEg" class="hover-underline-animation">Codepen</a>
 		<a href="https://github.com/JoshuaEgage" class="hover-underline-animation">Github</a>
 		<a href="https://www.linkedin.com/in/joshua-gage-nm511/" class="hover-underline-animation">LinkedIn</a>
-		<a href="" class="hover-underline-animation">Reddit</a>
+		
 	</nav>
 		
 </section>

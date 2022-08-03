@@ -12,8 +12,8 @@
 	<nav class='user-menu'>
 		<a href='?page=home' class="hover-underline-animation calm-voice">Home</a>
 		<a href='?page=projects' class="hover-underline-animation calm-voice">Projects</a>
-		<a href='?page=goals' class="hover-underline-animation calm-voice">Goals</a>
-		<a href='?page=resume' class="hover-underline-animation calm-voice">resume</a>
+<!-- 		<a href='?page=goals' class="hover-underline-animation calm-voice">Goals</a> -->
+		<a href='?page=resume' class="hover-underline-animation calm-voice">Resume</a>
 	</nav>
 
 </mast-head>
