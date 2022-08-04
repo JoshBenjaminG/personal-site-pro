@@ -17,6 +17,11 @@ call-to-action a {
 
 call-to-action p span {
   font-style: italic;
+  font-weight: 700;
+}
+
+call-to-action .attention-voice {
+  font-weight: 700;
 }
 
 @media (min-width: 600px) {
@@ -25,6 +30,3 @@ call-to-action p span {
   }
 }
 
-call-to-action span {
-  font-weight: bold;
-}
