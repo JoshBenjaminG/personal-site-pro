@@ -29,7 +29,6 @@ article-card .project-a {
   color: white;
   text-align: center;
   padding: 10px 20px;
-
 }
 
 .project-a {
@@ -53,7 +52,6 @@ article-card picture{
   transform: scale(1);
   /*box-shadow: 0 0px 0px rgba(0,0,0,0.15);*/
   transition: transform 0.3s ease-in-out;
-
 }
 
 article-card:hover picture {
@@ -62,12 +60,12 @@ article-card:hover picture {
   transition: transform 0.3s ease-in-out;
 }
 
-.article-title {
+article-card span {
   color: black;
   transition: color 0.3s ease-in-out;
 }
 
-article-card:hover .article-title {
+article-card:hover span {
   color: #f53c3c;
   transition: color 0.3s ease-in-out;
 }

@@ -5,6 +5,5 @@
 
 	<p class='calm-voice'><span>As a web developer from the Gulf Coast,</span> I discovered my passion for development in my last year of college. While I completed my formal education, I enrolled in a remote web development program to build on and reinforce my learning progress.</p>
 
-	<p class="calm-voice"><span>I'm currently studying</span> the entire development process at Perpetual Education. Find me and other students at the <a href="https://peprojects.dev/alpha-4/">Alpha Net.</a> Don’t hesitate to reach out to me on LinkedIn or github. Link: <a href="https://peprojects.dev/alpha-4/">Contact me here.</a></p>
-
+	<p class="calm-voice"><span>I'm currently studying</span> the entire development process at Perpetual Education. Find me and other students at the <a href="https://peprojects.dev/alpha-4/">Alpha Net.</a> Definitely look at my <a href="https://github.com/JoshuaEgage">Github</a> and Don’t hesitate to check me out at <a href="https://www.linkedin.com/in/joshua-gage-nm511/">LinkedIn!</a>
 </call-to-action>

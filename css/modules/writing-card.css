@@ -8,8 +8,14 @@ writing-card {
   background-color: white;
 }
 
-writing-card h2 {
-  margin-top: 10px;
+writing-card h2 span {
+  color: black;
+  transition: color 0.2s ease-in-out;
+}
+
+writing-card:hover h2 span {
+  color: #f53c3c;
+  transition: color 0.2s ease-in-out;
 }
 
 writing-card  {
@@ -17,7 +23,7 @@ writing-card  {
   display: flex;
   flex-direction: column;
   padding: 15px;
-  min-height: 35vh;
+  min-height: 20vh;
 }
 
 writing-card p {
@@ -67,7 +73,7 @@ writing-card {
 }
 
 writing-card:hover {
-  box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 187, 148, 1);
   transition: box-shadow 0.2s ease-in-out;
 }
 

@@ -6,8 +6,6 @@
 </inner-column>
 </section>
 
-
-
 <section class='get-involved'>
 <inner-column>
 
@@ -15,8 +13,7 @@
 
 </inner-column>
 </section>
-
-
+	
 
 <section class='stuff'>
 <inner-column>

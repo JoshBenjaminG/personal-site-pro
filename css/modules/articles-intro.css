@@ -6,6 +6,7 @@ articles-intro {
 
 articles-intro header {
   margin-bottom: 40px;
+  max-width: 60ch;
 }
 
 articles-intro article-grid {

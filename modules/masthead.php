@@ -12,6 +12,7 @@
 	<nav class='user-menu'>
 		<a href='?page=home' class="hover-underline-animation calm-voice">Home</a>
 		<a href='?page=projects' class="hover-underline-animation calm-voice">Projects</a>
+		<a href="https://github.com/JoshuaEgage" class="hover-underline-animation calm-voice">Github</a>
 <!-- 		<a href='?page=goals' class="hover-underline-animation calm-voice">Goals</a> -->
 		<a href='?page=resume' class="hover-underline-animation calm-voice">Resume</a>
 	</nav>
