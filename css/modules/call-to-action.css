@@ -9,6 +9,10 @@ call-to-action {
   align-items: flex-start;
 }
 
+call-to-action p {
+  max-width: 59ch;
+}
+
 call-to-action a {
   margin-top:  20px;
   text-decoration: none;

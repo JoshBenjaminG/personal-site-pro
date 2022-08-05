@@ -25,3 +25,11 @@
 
 </inner-column>
 </section>
+
+<section class='writing'>
+<inner-column>
+	
+	<?php include('modules/writing-intro.php'); ?>
+
+</inner-column>
+</section>

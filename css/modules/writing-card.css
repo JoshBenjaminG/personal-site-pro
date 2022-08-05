@@ -1,31 +1,30 @@
-
-article-card {
+writing-card {
   display: block;
 
   /* */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
- /* background-color: white;*/
+  background-color: white;
 }
 
-article-card h2 {
-  margin-top: 20px;
+writing-card h2 {
+  margin-top: 10px;
 }
 
-article-card  {
+writing-card  {
   display: block;
   display: flex;
   flex-direction: column;
   padding: 15px;
-  min-height: 50vh;
+  min-height: 35vh;
 }
 
-article-card p {
-  margin-bottom: 10px;
+writing-card p {
+  margin-bottom: 15px;
 }
 
-article-card .project-a {
+writing-card a {
   margin-top: auto;
   color: white;
   text-align: center;
@@ -39,12 +38,12 @@ article-card .project-a {
   letter-spacing: 0.04em;
 }
 
-article-card .project-a {
+writing-card a {
   background-color: #f43f3d;
   transition: background-color 0.1s linear;
 }
 
-article-card .project-a:hover {
+writing-card a:hover {
   background-color: #f65b5a;
   transition: background-color 0.1s linear;
 }
@@ -61,16 +60,15 @@ article-card:hover {
   transition: box-shadow 0.3s ease-in-out;
 }*/
 
-article-card {
-  border: 1px solid rgba(255, 187, 148, 0.3);
-  /*box-shadow: 0 0px 0px rgba(0,0,0,0.15);*/
-  transition: background-color 0.2s ease-in-out;
+writing-card {
+  border: 1px solid rgba(255, 187, 148, 0.5);
+  box-shadow: 0 0px 0px rgba(0,0,0,0.15);
+  transition: box-shadow 0.3s ease-in-out;
 }
 
-article-card:hover {
-  /*box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);*/
-  background-color: rgba(255, 255, 255  , 0.6);
-  transition: background-color 0.2s ease-in-out;
+writing-card:hover {
+  box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s ease-in-out;
 }
 
 .tech {

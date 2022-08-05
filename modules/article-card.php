@@ -8,7 +8,7 @@
 
 
 <article-card>
-
+	<a href="?page=detail&project=<?=$article["slug"]?>" class="article-link">
 	<picture>
 		<img src='<?=$thumbnail?>' loading='lazy' alt='$todo'>
 	</picture>
@@ -19,7 +19,8 @@
 
 	<p class='calm-voice'><?=$article["description"]?></p>
 
-	<a href='?page=detail&project=<?=$article["slug"]?>' class="project-a">READ MORE</a>
+	<a href='?page=detail&project=<?=$article["slug"]?>' class="project-a calm-voice">READ MORE</a>
+	</a>
 
 </article-card>
 

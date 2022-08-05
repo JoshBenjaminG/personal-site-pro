@@ -1,0 +1,36 @@
+
+writing-intro {
+  display: block;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+writing-intro header {
+  margin-bottom: 40px;
+}
+
+writing-intro writing-grid {
+  display: grid;
+  grid-gap: 1em;
+}
+
+writing-intro header p span {
+  font-style: italic;
+  font-weight: 700;
+}
+
+writing-intro header h2 {
+  font-weight: 700;
+}
+
+@media(min-width: 600px){
+  writing-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media(min-width: 900px){
+  writing-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
