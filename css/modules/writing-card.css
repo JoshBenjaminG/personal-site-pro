@@ -24,7 +24,7 @@ writing-card p {
   margin-bottom: 15px;
 }
 
-writing-card a {
+writing-card .project-a {
   margin-top: auto;
   color: white;
   text-align: center;
@@ -38,12 +38,12 @@ writing-card a {
   letter-spacing: 0.04em;
 }
 
-writing-card a {
+writing-card .project-a {
   background-color: #f43f3d;
   transition: background-color 0.1s linear;
 }
 
-writing-card a:hover {
+writing-card .project-a:hover {
   background-color: #f65b5a;
   transition: background-color 0.1s linear;
 }

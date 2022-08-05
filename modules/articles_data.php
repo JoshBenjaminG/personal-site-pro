@@ -4,7 +4,7 @@ $database = [ // an associative array (Array of key:value pairs)
 	[
 		"heading" => "Croatian Coasts",
 		"technologies" => "HTML, PHP, CSS",
-		"description" => "A case study on a PHP themeing research project based on a high-end resort chain.",
+		"description" => "A case study on a PHP themeing research project based on a high-end resort chain from Croatia.",
 		"thumbnail" => "images/projectimage5.jpg",
 		"url" => "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/",
 		"slug" => "123",
