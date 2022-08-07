@@ -1,5 +1,5 @@
 
-<articles-intro>
+<articles-intro id="projects">
 
   <header>
     <h2 class='attention-voice'>Featured Projects...</h2>

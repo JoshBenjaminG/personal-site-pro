@@ -31,3 +31,7 @@ mast-head a {
 @media (min-width: 600px) {
   
 }
+
+mast-head .user-menu .projects-link {
+  scroll-behavior: smooth;
+}

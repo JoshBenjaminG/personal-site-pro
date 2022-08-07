@@ -17,7 +17,6 @@ article-card  {
   display: block;
   display: flex;
   flex-direction: column;
-  
 }
 
 article-card p {
@@ -71,7 +70,7 @@ article-card:hover span {
 }
 
 .tech {
-  color: #ffbb94;
+  color: #fb8268;
 }
 
 

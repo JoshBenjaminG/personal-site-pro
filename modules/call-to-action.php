@@ -1,6 +1,5 @@
 
 <call-to-action>
-
 	<h2 class='attention-voice'>A little about me...</h2>
 
 	<p class='calm-voice'><span>As a web developer from the Gulf Coast,</span> I discovered my passion for development in my last year of college. While I completed my formal education, I enrolled in a remote web development program to build on and reinforce my learning progress.</p>

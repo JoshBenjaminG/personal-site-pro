@@ -1,4 +1,3 @@
-
 <?php
 	// you could simplify the $variables up here if you want....
 	// example
@@ -22,4 +21,3 @@
 	</a>
 
 </article-card>
-
