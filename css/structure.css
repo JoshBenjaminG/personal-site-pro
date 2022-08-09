@@ -13,7 +13,7 @@ main {
 
 inner-column {
 	display:  block;
-	max-width: 1000px; /* could be a variable in settings */
+	max-width: 950px; /* could be a variable in settings */
 	margin-right: auto;
 	margin-left: auto;
 	padding: 30px 14px; /* a default */

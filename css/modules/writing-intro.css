@@ -34,3 +34,7 @@ writing-intro header h2 {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
+
+writing-intro span {
+  color: #f43c3c;
+}

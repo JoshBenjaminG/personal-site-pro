@@ -11,8 +11,7 @@ articles-intro header {
 
 articles-intro article-grid {
   display: grid;
-  
-  grid-gap: 1.5em;
+  grid-gap: 2.5em;
 }
 
 articles-intro header p span {
@@ -35,3 +34,8 @@ articles-intro header h2 {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
+
+header span {
+  color: #f43c3c;
+}
+

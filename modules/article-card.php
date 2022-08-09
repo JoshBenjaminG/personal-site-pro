@@ -17,7 +17,6 @@
 	<p class="calm-voice tech"><?=$article["technologies"]?></p>
 
 	<p class='calm-voice'><?=$article["description"]?></p>
-
 	</a>
 
 </article-card>

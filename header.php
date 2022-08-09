@@ -2,7 +2,7 @@
 
 <html lang='en'>
 	<?php include('head.php'); ?>
-
+	<?php include('functions.php'); ?>
 	<body>
 		<header class='site-header'>
 		<inner-column>

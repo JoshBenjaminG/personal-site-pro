@@ -33,6 +33,7 @@
 @import 'modules/writing-card.css';
 @import 'modules/site-map.css';
 @import 'animation.css';
+@import 'detail.css';
 /* should everything/nothing be in it's own file? */
 
 
@@ -84,7 +85,7 @@ html {
 
 
 .get-involved {
-  background-color: #fef8e7;
+  background-color: #fedfd0;
   background-image:  url("data:image/svg+xml,%3Csvg width='4' height='4' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23000000' fill-opacity='0.2' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
 } /* interesting way to include the whole image in your CSS */
 
@@ -102,7 +103,7 @@ html {
 }
 
 .writing {
-	background-color: #fef8e7;
+	background-color: #fedfd0;
 	background-image:  url("data:image/svg+xml,%3Csvg width='4' height='4' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23000000' fill-opacity='0.2' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
 }
 
@@ -116,6 +117,6 @@ html {
 }
 
 .site-footer .logo {
-	max-width:  60px;
+
 }
 

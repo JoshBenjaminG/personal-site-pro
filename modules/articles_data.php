@@ -8,7 +8,24 @@ $database = [ // an associative array (Array of key:value pairs)
 		"thumbnail" => "images/projectimage5.jpg",
 		"url" => "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/",
 		"slug" => "123",
-	],
+		"case-study" => [
+			"sections" => [	
+				[
+					"module" => "goal",
+					"intro" => "intro here",
+				],
+				[
+					""
+				]
+			],
+			"goal" => "Goals",
+			"goal-p" => "The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.",
+			"research-header" => "The Research Phase",
+			"research-header-p" => "I was able to pick any industry I wanted, so I went with something that would give me a lot of options content-wise: Hotels. ",
+			"research-header-img" => "images/research-picture.jpg",
+			"research-header-p2" => "This is an example of that research",
+		],
+ 	],
 	[
 		"heading" => "Riche Fashion",
 		"technologies" => "HTML, PHP, CSS",
@@ -16,6 +33,14 @@ $database = [ // an associative array (Array of key:value pairs)
 		"thumbnail" => "images/projectimage4.jpg",
 		"url" => "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/",
 		"slug" => "345",
+		"case-study" => [
+			"goal" => "Goals",
+			"goal-p" => "The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.",
+			"research-header" => "The Research Phase",
+			"research-header-p" => "I was able to pick any industry I wanted, so I went with something that would give me a lot of options content-wise: Hotels. ",
+			"research-header-img" => "images/research-picture2.jpg",
+			"research-header-p2" => "This is an example of that research",
+		],
 	],
 	[
 		"heading" => "Coding Exercises",

@@ -34,3 +34,10 @@ call-to-action .attention-voice {
   }
 }
 
+call-to-action span {
+  color: #f43c3c;
+}
+
+.intro {
+  color: black;
+}
