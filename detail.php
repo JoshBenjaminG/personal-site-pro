@@ -4,33 +4,27 @@
 include("modules/articles_data.php");
 $slug = $_GET['project'];
 
+$this_article = null;
+
 foreach ($database as $article) {
 	if ($article["slug"] == $slug) {
 		$this_article = $article;
 	}
 }
-
-//get the slug
-//look at each of the projects
-//if the slug is equal to query
-
 ?>
-<inner-column class="information">
-	<section class="detail">
 
-		<section class="goal">
-			<h1 class="attention-voice"><?=$this_article["case-study"]["goal"]?></h1>
-			<p class="calm-voice"><?=$this_article["case-study"]["goal-p"]?></p>
-		</section>
+<header>
+	<inner-column>
+		<h1><?=$this_article["heading"]?> Case Study</h1>
+	</inner-column>
+</header>
 
-		<section class="research">
-			<h1 class="attention-voice"><?=$this_article["case-study"]["research-header"]?></h1>
-			<p class="calm-voice"><?=$this_article["case-study"]["research-header-p"]?></p>
-			<picture>
-				<img src="<?=$this_article["case-study"]["research-header-img"]?>" alt="">
-			</picture>
-			<p class="calm-voice"><?=$this_article["case-study"]["research-header-p2"]?></p>
-		</section>
-		
+<?php foreach($this_article["case-study"]["sections"] as $section) { ?>
+	<section>
+		<inner-column>
+			<?php include("modules/$section[module].php"); ?>
+		</inner-column>
 	</section>
-</inner-column>
+
+
+<?php } ?>

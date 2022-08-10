@@ -11,19 +11,26 @@ $database = [ // an associative array (Array of key:value pairs)
 		"case-study" => [
 			"sections" => [	
 				[
-					"module" => "goal",
-					"intro" => "intro here",
+					"module" => "text",
+					"heading" => "Project Goals",
+					"content" => "<p>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>",
 				],
 				[
-					""
-				]
+					"module" => "text",
+					"content" => "<p class='calm-voice'>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>
+						<p class='calm-voice'>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>",
+				],
+				[
+					"module" => "image",
+					"heading" => "Image heading",
+					"img" => "images/research-picture.jpg",
+					"caption" => "This is an example of that research",
+					"description" => "<p class='calm-voice'>I was able to pick any industry I wanted, so I went with something that would give me a lot of options content-wise: Hotels.</p>"
+				],
+				[
+					"module" => "articles-intro",
+				],
 			],
-			"goal" => "Goals",
-			"goal-p" => "The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.",
-			"research-header" => "The Research Phase",
-			"research-header-p" => "I was able to pick any industry I wanted, so I went with something that would give me a lot of options content-wise: Hotels. ",
-			"research-header-img" => "images/research-picture.jpg",
-			"research-header-p2" => "This is an example of that research",
 		],
  	],
 	[
@@ -34,12 +41,25 @@ $database = [ // an associative array (Array of key:value pairs)
 		"url" => "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/",
 		"slug" => "345",
 		"case-study" => [
-			"goal" => "Goals",
-			"goal-p" => "The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.",
-			"research-header" => "The Research Phase",
-			"research-header-p" => "I was able to pick any industry I wanted, so I went with something that would give me a lot of options content-wise: Hotels. ",
-			"research-header-img" => "images/research-picture2.jpg",
-			"research-header-p2" => "This is an example of that research",
+			"sections" => [	
+				[
+					"module" => "text",
+					"heading" => "riche-fashion Goals",
+					"content" => "<p>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>",
+				],
+				[
+					"module" => "text",
+					"content" => "<p class='calm-voice'>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>
+						<p class='calm-voice'>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>",
+				],
+				[
+					"module" => "image",
+					"heading" => "Image heading",
+					"img" => "images/research-picture.jpg",
+					"caption" => "This is an example of that research",
+					"description" => "<p class='calm-voice'>I was able to pick any industry I wanted, so I went with something that would give me a lot of options content-wise: Hotels.</p>",
+				],
+			],
 		],
 	],
 	[
