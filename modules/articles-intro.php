@@ -10,7 +10,7 @@
   <article-grid>
     <?php include('articles_data.php'); ?><!-- acting as an example database -->
 
-    <?php foreach ($database as $article) { ?> 
+    <?php foreach ($projects as $article) { ?> 
       <?php include('article-card.php'); ?>
     <?php } ?>
   </article-grid>

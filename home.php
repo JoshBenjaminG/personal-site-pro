@@ -1,3 +1,9 @@
+<?php 
+
+include("modules/articles_data.php");
+
+?>
+
 <section class='welcome'>
 <inner-column>
 
@@ -9,7 +15,9 @@
 <section class='get-involved'>
 <inner-column>
 
-	<?php include('modules/call-to-action.php'); ?>
+	<?php foreach($modules as $module) {
+		include("modules/$module[module].php");
+	} ?>
 
 </inner-column>
 </section>
@@ -30,3 +38,10 @@
 
 </inner-column>
 </section>
+
+<?php foreach($modules as $module) {
+	include("modules/$module[module].php");
+} ?>
+	
+
+

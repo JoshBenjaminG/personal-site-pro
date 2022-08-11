@@ -6,7 +6,7 @@ $slug = $_GET['project'];
 
 $this_article = null;
 
-foreach ($database as $article) {
+foreach ($projects as $article) {
 	if ($article["slug"] == $slug) {
 		$this_article = $article;
 	}
@@ -20,11 +20,11 @@ foreach ($database as $article) {
 </header>
 
 <?php foreach($this_article["case-study"]["sections"] as $section) { ?>
+
 	<section>
 		<inner-column>
 			<?php include("modules/$section[module].php"); ?>
 		</inner-column>
 	</section>
-
 
 <?php } ?>
