@@ -15,8 +15,12 @@ $content = $module["content"];
 
 ?>
 
-<call-to-action>
-	<?=$header?>
+<section class='get-involved'>
+<inner-column>
+	<call-to-action>
+		<?=$header?>
 
-	<?=$content?>
-</call-to-action>
+		<?=$content?>
+	</call-to-action>
+</inner-column>
+</section>
