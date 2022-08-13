@@ -12,19 +12,20 @@ foreach ($projects as $article) {
 	}
 }
 ?>
-
+<inner-column>
 <header>
-	<inner-column>
+	
 		<h1><?=$this_article["heading"]?> Case Study</h1>
-	</inner-column>
+	
 </header>
 
 <?php foreach($this_article["case-study"]["sections"] as $section) { ?>
 
 	<section>
-		<inner-column>
+	
 			<?php include("modules/$section[module].php"); ?>
-		</inner-column>
+
 	</section>
 
 <?php } ?>
+</inner-column>
