@@ -33,12 +33,19 @@ can increase final product quality in a timely manner at an efficient cost. </p>
 					"caption" => "Tiles were a useful tool in this project.",
 					"description" => "<p class='calm-voice'>I stuck to content that was similar to what I found in my research, and decided to go for white backgrounds to accentuate the hotel images. During feedback, I decided to also include more images as transparent backgrounds to display text, to give the page a more dynamic and premium feel.</p>",
 				],
-								[
+				[
 					"module" => "image",
 					"heading" => "A CSS and PHP design framework",
 					"img" => "images/responsive-module1.jpg",
 					"caption" => "Tiles were a useful tool in this project.",
 					"description" => "<p class='calm-voice'>This is the basic skeletal structure of the site, and while I’ll go on to change it, this design provides a solid foundation for the style tile elements to be added.</p> <p class='calm-voice'>This process would serve as a jumping off point to add and change the structure of the site moving forward.</p>",
+				],
+				[
+					"module" => "image",
+					"heading" => "The  Finished Product",
+					"img" => "",
+					"caption" => "",
+					"description" => "<p class='calm-voice'>After several iterations and rounds of feedback, i learned that what makes a design feel pro is the last few percent - the small details make the biggest difference.</p>",
 				],
 			],
 		],

@@ -1,0 +1,11 @@
+figure {
+	margin-bottom: 10px;
+}
+
+figure picture {
+	box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
+}
+
+generic-text h2 {
+	margin-bottom: 10px;
+}

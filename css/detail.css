@@ -11,3 +11,12 @@
 	margin: 15px 0px;
 }
 
+.module-section {
+	margin: 10px 0px;
+}
+
+@media(min-width: 500px) {
+	.module-section {
+		max-width: 70ch;
+	}
+}

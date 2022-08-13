@@ -18,5 +18,4 @@
 
 	<p class='calm-voice'><?=$article['description']?></p>
 	</a>
-
 </article-card>

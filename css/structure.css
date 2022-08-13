@@ -13,8 +13,8 @@ main {
 
 inner-column {
 	display:  block;
-	max-width: 950px; /* could be a variable in settings */
+	max-width: 900px; /* could be a variable in settings */
 	margin-right: auto;
 	margin-left: auto;
-	padding: 15px 14px; /* a default */
+	padding: 15px 15px; /* a default */
 }

@@ -9,16 +9,23 @@
 
 <generic-text>
 	<?php if ($heading) { ?>
-		<h2 class="attention-voice"><?=$heading?></h2>
+		
+			<h2 class="attention-voice">test</h2>
+		
 	<?php } ?>
 	
 	<figure>
+			
 		<picture>
+			
 			<img src="<?=$img?>" alt="">
+			
 		</picture>
+		
 
 		<figcaption class="calm-voice"><?$caption?></figcaption>
 	</figure>
 	
 	<?=$description?>
+
 </generic-text>
