@@ -1,6 +1,8 @@
 <?php 
 
 include("data/projects_data.php");
+include("data/pages/home_data.php");
+
 
 ?>
 
