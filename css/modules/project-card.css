@@ -1,5 +1,5 @@
 
-article-card {
+project-card {
   display: block;
 
   /* */
@@ -11,21 +11,21 @@ article-card {
  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 }
 
-article-card h2 {
+project-card h2 {
   margin-top: 20px;
 }
 
-article-card  {
+project-card  {
   display: block;
   display: flex;
   flex-direction: column;
 }
 
-article-card p {
+project-card p {
 
 }
 
-article-card .project-a {
+project-card .project-a {
   margin-top: auto;
   color: white;
   text-align: center;
@@ -38,35 +38,35 @@ article-card .project-a {
   letter-spacing: 0.04em;
 }
 
-article-card .project-a {
+project-card .project-a {
   background-color: #f43f3d;
   transition: background-color 0.1s linear;
 }
 
-article-card .project-a:hover {
+project-card .project-a:hover {
   background-color: #f65b5a;
   transition: background-color 0.1s linear;
 }
 
 
-article-card picture{
+project-card picture{
   transform: scale(1);
   /*box-shadow: 0 0px 0px rgba(0,0,0,0.15);*/
   transition: transform 0.3s ease-in-out;
 }
 
-article-card:hover picture {
+project-card:hover picture {
   /*box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);*/
   transform: scale(0.97);
   transition: transform 0.3s ease-in-out;
 }
 
-article-card span {
+project-card span {
   color: black;
   transition: color 0.3s ease-in-out;
 }
 
-article-card:hover span {
+project-card:hover span {
   color: #f53c3c;
   transition: color 0.3s ease-in-out;
 }
@@ -76,7 +76,7 @@ article-card:hover span {
 }
 
 @media(min-width: 600px) {
-  article-card {
+  project-card {
     border-bottom: none;
     padding-bottom: 0px;
   }

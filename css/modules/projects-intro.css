@@ -1,36 +1,36 @@
 
-articles-intro {
+projects-intro {
   display: block;
   padding: 50px 0;
 }
 
-articles-intro header {
+projects-intro header {
   margin-bottom: 40px;
   max-width: 60ch;
 }
 
-articles-intro article-grid {
+projects-intro project-grid {
   display: grid;
   grid-gap: 2.5em;
 }
 
-articles-intro header p span {
+projects-intro header p span {
   font-style: italic;
   font-weight: 700;
 }
 
-articles-intro header h2 {
+projects-intro header h2 {
   font-weight: 700;
 }
 
 @media(min-width: 600px){
-  article-grid {
+  project-grid {
     grid-template-columns: 1fr 1fr;
   }
 }
 
 @media(min-width: 900px){
-  article-grid {
+  project-grid {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }

@@ -6,10 +6,10 @@ if(isset($_GET['page'])) {
 	$page = 'home';
 }
 
-include('header.php');
+include('templates/modules/header.php');
 
-include($page . '.php');
+include('templates/pages/' . $page . '.php');
 
-include('footer.php');
+include('templates/modules/footer.php');
 
 ?>

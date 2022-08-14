@@ -3,7 +3,7 @@
 <section class='stuff'>
 <inner-column>
 	
-	<?php include('modules/articles-intro.php'); ?>
+	<?php include('templates/modules/projects-intro.php'); ?>
 
 </inner-column>
 </section>

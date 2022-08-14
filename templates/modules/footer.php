@@ -8,7 +8,7 @@
 
 			<!-- no headers in footers allowed? -->
 
-			<?php include('modules/site-map.php'); ?>
+			<?php include('templates/modules/site-map.php'); ?>
 
 		</inner-column>
 		</footer>

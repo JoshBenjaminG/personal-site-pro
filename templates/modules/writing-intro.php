@@ -10,7 +10,7 @@
   </header>
 
   <writing-grid>
-    <?php include('writing_data.php'); ?><!-- acting as an example database -->
+    <?php include('data/writing_data.php'); ?><!-- acting as an example database -->
 
     <?php foreach ($database as $article) { ?> 
       <?php include('writing-card.php'); ?>
