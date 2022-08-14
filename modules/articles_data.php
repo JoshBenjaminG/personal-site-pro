@@ -42,10 +42,10 @@ can increase final product quality in a timely manner at an efficient cost. </p>
 				],
 				[
 					"module" => "image",
-					"heading" => "The  Finished Product",
+					"heading" => "The Finished Product",
 					"img" => "",
 					"caption" => "",
-					"description" => "<p class='calm-voice'>After several iterations and rounds of feedback, i learned that what makes a design feel pro is the last few percent - the small details make the biggest difference.</p>",
+					"description" => "<p class='calm-voice'>After several iterations and rounds of feedback, I learned that what makes a design feel pro is the last few percent - the small details make the biggest difference.</p>",
 				],
 			],
 		],

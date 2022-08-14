@@ -10,7 +10,7 @@
 <generic-text>
 	<?php if ($heading) { ?>
 		
-			<h2 class="attention-voice">test</h2>
+			<h2 class="attention-voice"><?=$heading?></h2>
 		
 	<?php } ?>
 	
