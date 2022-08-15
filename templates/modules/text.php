@@ -1,7 +1,11 @@
 <?php 
 
-	$heading = $section["heading"] ?? false; 
-	$content = $section["content"];
+
+	$heading = $section["heading"] ?? "Project Text Heading Module"; 
+	$content = $section["content"] ?? "Project Text Content Module"
+
+	
+	
 
 ?>
 

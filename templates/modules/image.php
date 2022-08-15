@@ -1,9 +1,9 @@
 <?php  
 
-	$heading = $section["heading"] ?? false;
-	$img = $section["img"];
-	$caption = $section["caption"];
-	$description = $section["description"];
+	$heading = $section["heading"] ?? "Project Image Heading Module";
+	$img = $section["img"] ?? "Project Image Img Module";
+	$caption = $section["caption"] ?? "Project Image caption Module";
+	$description = $section["description"] ?? "Project Image description Module";
 
 ?>
 
