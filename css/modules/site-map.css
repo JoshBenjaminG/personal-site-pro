@@ -3,28 +3,11 @@
   justify-content: space-between;
   padding-top: 10px;
   padding-bottom: 10px;
-
 }
 
 .site-map .logo {
   fill: black;
-  max-width:  40px;
-}
-
-.links {
-  display: flex;
-  flex-direction: row;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-}
-
-.links a {
-  padding: 0px 0px 4px 0px;
-  margin: 0px 6px 0px 6px;
-  font-family: 'Playfair Display', serif;
-  font-size: 1rem;
-  color: black;
+  max-width: 40px;
 }
 
 

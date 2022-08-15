@@ -1,9 +1,8 @@
 
-<site-map>
 
-</site-map>
 
 <section class="site-map">
+
 
 	<a class='logo' href='?page=home'>
 		<?php include("images/JG-logo.svg"); ?>
@@ -19,3 +18,4 @@
 	</nav>
 		
 </section>
+

@@ -9,7 +9,7 @@
 	</nav>
 
 
-	<nav class='user-menu'>
+	<nav class='links'>
 		<!-- <a href='?page=home' class="hover-underline-animation calm-voice">Home</a> -->
 		<a href='#projects' class="hover-underline-animation calm-voice projects-link">Projects</a>
 		<a href="https://github.com/JoshBenjaminG" class="hover-underline-animation calm-voice">Github</a>
@@ -18,3 +18,4 @@
 	</nav>
 
 </mast-head>
+

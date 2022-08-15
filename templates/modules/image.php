@@ -7,7 +7,9 @@
 
 ?>
 
-
+<?php if ($page == 'style-guide') { ?>
+	<inner-column>
+<?php } ?>
 <generic-text>
 	<?php if ($heading) { ?>
 		
@@ -30,3 +32,6 @@
 	<?=$description?>
 
 </generic-text>
+<?php if ($page == 'style-guide') { ?>
+	<inner-column>
+<?php } ?>

@@ -8,6 +8,8 @@ if(isset($_GET['page'])) {
 	$page = 'home';
 }
 
+
+
 include('templates/modules/header.php');
 
 $modules = getData($page);

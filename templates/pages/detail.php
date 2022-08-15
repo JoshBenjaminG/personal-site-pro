@@ -13,7 +13,6 @@ foreach ($projects as $project) {
 }
 ?>
 
-<inner-column>
 
 <?php foreach($this_project["case-study"]["sections"] as $section) { ?>
 
@@ -24,4 +23,5 @@ foreach ($projects as $project) {
 	</section>
 
 <?php } ?>
-</inner-column>
+
+

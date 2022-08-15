@@ -66,10 +66,6 @@
                     "content": "<p>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>"
                 },
                 {
-                    "module": "text",
-                    "content": "<p class='calm-voice'>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>\n\t\t\t\t\t\t<p class='calm-voice'>The goal for this project was to implement the CSS and PHP fundamentals I had practiced so far, by producing a site based on research of luxury hotel chains.</p>"
-                },
-                {
                     "module": "image",
                     "heading": "Image heading",
                     "img": "images/research-picture.jpg",

@@ -3,7 +3,7 @@ mast-head {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 5px 0;
+   
   }
 
 
@@ -18,20 +18,26 @@ mast-head .logo {
   max-width:  40px;
 }
 
-mast-head a {
-  font-family: sans-serif;
-  font-size: 1rem;
-  padding: 0px 0px;
+.links {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
-.user-menu a {
-  margin: 0px 0px 0px 25px;
+.links a {
+  padding: 0px 0px 2px 0px;
+  margin: 0px 6px 0px 6px;
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;
+  color: black;
 }
 
 @media (min-width: 600px) {
   
 }
 
-mast-head .user-menu .projects-link {
+mast-head .links .projects-link {
   scroll-behavior: smooth;
 }
