@@ -3,6 +3,7 @@
 	// example
 	$thumbnail = $project["thumbnail"];
 	// it may or may not - be more readable
+
 ?>
 
 

@@ -1,7 +1,7 @@
 <?php 
 
 //get the projects 
-include("data/projects_data.php");
+$projects = getProjectData();
 $slug = $_GET['project'];
 
 $this_project = null;

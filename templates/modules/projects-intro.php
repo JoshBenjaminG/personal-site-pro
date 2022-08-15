@@ -1,5 +1,12 @@
+<?php 
+
+$projects = getProjectData();
+
+?>
+
 <section class='stuff'>
 <inner-column>
+
 
 <projects-intro id='projects'>
 
@@ -10,7 +17,6 @@
   </header>
 
   <project-grid>
-    <?php include('data/projects_data.php'); ?><!-- acting as an example database -->
 
     <?php foreach ($projects as $project) { ?> 
       <?php include('templates/modules/project-card.php'); ?>

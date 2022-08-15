@@ -1,6 +1,6 @@
 <?php
 
-$projects = [ // an associative array (Array of key:value pairs)
+$meme = [ // an associative array (Array of key:value pairs)
 	[
 		"heading" => "Croatian Coasts",
 		"technologies" => "HTML, PHP, CSS",
@@ -88,3 +88,4 @@ can increase final product quality in a timely manner at an efficient cost. </p>
 		"slug" => "678",
 	],
 ];
+
