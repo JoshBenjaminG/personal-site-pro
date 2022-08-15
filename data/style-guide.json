@@ -14,5 +14,16 @@
   },
   {
     "module": "writing-intro"
+  },
+  {
+    "module": "text",
+    "heading" : "Text module heading",
+    "content" : "<p class='calm-voice'>Text module content paragraph</p>"
+  },
+  {
+    "module": "image",
+    "img": "images/research-picture.jpg",
+    "caption": "The beginning of the research phase",
+    "description": "<p class'calm-voice'>Image module description</p>"
   }
 ]

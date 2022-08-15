@@ -1,8 +1,4 @@
 
-
-
-
-
 <section class='not-found'>
 <inner-column>
 

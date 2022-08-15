@@ -6,6 +6,10 @@ figure picture {
 	box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
 }
 
+figure picture {
+	max-width: 500px;
+}
+
 generic-text h2 {
 	margin-bottom: 10px;
 }

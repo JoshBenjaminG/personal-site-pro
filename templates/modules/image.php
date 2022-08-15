@@ -7,6 +7,7 @@
 
 ?>
 
+
 <generic-text>
 	<?php if ($heading) { ?>
 		

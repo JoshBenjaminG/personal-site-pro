@@ -8,11 +8,10 @@ if(isset($_GET['page'])) {
 	$page = 'home';
 }
 
-$modules = getData($page);
-
 include('templates/modules/header.php');
 
-// include('templates/pages/' . $page . '.php');
+$modules = getData($page);
+
 foreach($modules as $module) {
 	include("templates/modules/$module[module].php");
 }
@@ -20,3 +19,6 @@ foreach($modules as $module) {
 include('templates/modules/footer.php');
 
 ?>
+
+
+
