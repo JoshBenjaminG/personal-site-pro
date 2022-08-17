@@ -36,6 +36,8 @@
 @import 'detail.css';
 @import 'image.css';
 @import 'modules/resume.css';
+@import 'modules/goal-list.css';
+@import 'modules/goal.css';
 /* should everything/nothing be in it's own file? */
 
 

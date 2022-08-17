@@ -1,6 +1,13 @@
+<?php 
+
+$header = $module["header"];
+	
+?>
+
+<section class="goal-list">
 <inner-column>
 	<generic-text>
-		<h1 class="attention-voice">This is the goal list</h1>
-		<p>Welcome to the goal list</p>
+		<h1 class="attention-voice"><?=$header?></h1>
 	</generic-text>
 </inner-column>
+</section>

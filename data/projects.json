@@ -8,7 +8,7 @@
         "slug": "123",
         "case-study":
         {
-            "section":
+            "sections":
             [
                 {
                     "module": "text",
