@@ -8,7 +8,7 @@
         "slug": "123",
         "case-study":
         {
-            "sections":
+            "section":
             [
                 {
                     "module": "text",
@@ -63,7 +63,7 @@
                 {
                     "module": "text",
                     "heading": "Project Goals",
-                    "content": "<p>In this project, I wanted to produce a design that was based on my research of high-end fashion websites. I began by researching various sites like Prada and Gucci to see what visual language they used.</p>"
+                    "content": "<p class='calm-voice'>In this project, I wanted to produce a design that was based on my research of high-end fashion websites. I began by researching various sites like Prada and Gucci to see what visual language they used.</p>"
                 },
                 {
                     "module": "image",

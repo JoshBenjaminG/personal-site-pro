@@ -1,0 +1,8 @@
+[30-Jun-2022 17:38:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[02-Jul-2022 03:16:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17

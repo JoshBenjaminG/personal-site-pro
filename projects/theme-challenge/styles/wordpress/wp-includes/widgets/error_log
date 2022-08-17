@@ -1,0 +1,44 @@
+[26-Jun-2022 22:21:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[27-Jun-2022 06:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[27-Jun-2022 18:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-text.php on line 17
+[28-Jun-2022 04:28:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[28-Jun-2022 23:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media.php on line 17
+[29-Jun-2022 03:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[29-Jun-2022 16:47:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-links.php on line 17
+[30-Jun-2022 01:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[30-Jun-2022 04:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[30-Jun-2022 20:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[30-Jun-2022 21:10:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/widgets/class-wp-widget-media-video.php on line 18

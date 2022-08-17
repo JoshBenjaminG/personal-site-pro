@@ -1,0 +1,20 @@
+[ 
+  {
+    "module": "goal-list"
+  },
+  {
+    "module": "goal",
+    "header": "<h2 class='attention-voice'>goal asdf</h2>",
+    "content": "<p class='calm-voice'>goal content</p>"
+  },
+  {
+    "module": "goal",
+    "header": "<h2 class='attention-voice'>asf header</h2>",
+    "content": "<p class='calm-voice'>goal content</p>"
+  },
+  {
+    "module": "goal",
+    "header": "<h2 class='attention-voice'>goal asdfheader</h2>",
+    "content": "<p class='calm-voice'>goal content</p>"
+  }
+]

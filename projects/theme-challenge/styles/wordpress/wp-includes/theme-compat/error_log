@@ -1,0 +1,32 @@
+[26-Jun-2022 00:13:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/header-embed.php on line 19
+[26-Jun-2022 10:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/footer-embed.php on line 18
+[26-Jun-2022 23:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/sidebar.php on line 9
+[30-Jun-2022 13:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/embed.php on line 13
+[01-Jul-2022 03:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/embed-content.php on line 13
+[01-Jul-2022 14:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/comments.php on line 9
+[02-Jul-2022 00:20:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/embed-404.php on line 14
+[02-Jul-2022 01:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/theme-compat/comments.php on line 9

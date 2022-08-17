@@ -9,7 +9,6 @@ if(isset($_GET['page'])) {
 }
 
 
-
 include('templates/modules/header.php');
 
 $modules = getData($page);

@@ -1,0 +1,4 @@
+[01-Jul-2022 22:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/peadmin/public_html/alpha-3/josh/wordpress/wp-includes/sodium_compat/namespaced/Compat.php on line 4
