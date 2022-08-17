@@ -2,36 +2,24 @@
 
 function getProjectData() {
 
-		$json = file_get_contents("data/projects.json");
+	$json = file_get_contents("data/projects.json");
 
-		if($json) {
-			return json_decode($json, true);
-		}
-		else {
-			return "error: could not find data";
-		}
+	if ($json) {
+		return json_decode($json, true);
 	}
-
-// function getHomeData() {
-
-// 		$json = file_get_contents("data/pages/home.json");
-
-// 		if($json) {
-// 			return json_decode($json, true);
-// 		}
-// 		else {
-// 			return "error: could not find data";
-// 		}
-// 	}
-
-function getData($data) {
-		$json = file_get_contents("data/" . $data . ".json");
-
-		if($json) {
-			return json_decode($json, true);
-		}
-		else {
-			return "error: could not find data";
-		}
+	else {
+		return "error: could not find data";
 	}
+}
+
+function getData($filePath) {
+	$json = file_get_contents($filePath);
+
+	if ($json) {
+		return json_decode($json, true);
+	}
+	else {
+		return "error: could not find data";
+	}
+}
 

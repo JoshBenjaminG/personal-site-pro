@@ -11,7 +11,7 @@ if(isset($_GET['page'])) {
 
 include('templates/modules/header.php');
 
-$modules = getData($page);
+$modules = getData("data/$page.json");
 
 foreach($modules as $module) {
 	include("templates/modules/$module[module].php");
@@ -19,7 +19,8 @@ foreach($modules as $module) {
 
 include('templates/modules/footer.php');
 
-?>
+
+
 
 
 

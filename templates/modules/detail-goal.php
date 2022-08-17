@@ -1,7 +1,7 @@
 <?php 
 
 //get the projects 
-$projects = getProjectData();
+$projects = getData("data/projects.json");
 $slug = $_GET['project'];
 
 $this_project = null;

@@ -24,18 +24,14 @@ projects-intro header h2 {
 }
 
 @media(min-width: 600px){
-  project-grid {
+ projects-intro project-grid {
     grid-template-columns: 1fr 1fr;
   }
 }
 
 @media(min-width: 900px){
-  project-grid {
+  projects-intro project-grid {
     grid-template-columns: 1fr 1fr 1fr;
   }
-}
-
-header span {
-  color: #f43c3c;
 }
 
