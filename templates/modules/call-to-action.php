@@ -16,11 +16,13 @@ $content = $module["content"];
 ?>
 
 <section class='get-involved'>
-<inner-column>
-	<call-to-action>
-		<?=$header?>
+	<inner-column>
 
-		<?=$content?>
-	</call-to-action>
-</inner-column>
+		<call-to-action>
+			<?=$header?>
+
+			<?=$content?>
+		</call-to-action>
+
+	</inner-column>
 </section>

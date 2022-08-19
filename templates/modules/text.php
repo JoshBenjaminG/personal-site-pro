@@ -7,7 +7,7 @@
 
 
 <?php if ($page == 'style-guide') { ?>
-	<inner-column>
+<inner-column>
 <?php } ?>
 <generic-text>
 	<?php if ($heading) { ?>
@@ -17,6 +17,6 @@
 	<?=$content?>
 </generic-text>
 <?php if ($page == 'style-guide') { ?>
-	</inner-column>
+</inner-column>
 <?php } ?>
 

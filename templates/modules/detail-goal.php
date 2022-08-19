@@ -14,12 +14,11 @@ foreach ($projects as $project) {
 ?>
 
 <inner-column>
-
 <?php foreach($this_project["case-study"]["sections"] as $section) { ?>
 
 	<section class="module-section">
-	
-			<?php include("templates/modules/$section[module].php"); ?>
+
+		<?php include("templates/modules/$section[module].php"); ?>
 
 	</section>
 

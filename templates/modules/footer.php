@@ -4,13 +4,13 @@
 
 
 		<footer class='site-footer'>
-		<inner-column>
+			<inner-column>
 
-			<!-- no headers in footers allowed? -->
+				<!-- no headers in footers allowed? -->
 
-			<?php include('templates/modules/site-map.php'); ?>
+				<?php include('templates/modules/site-map.php'); ?>
 
-		</inner-column>
+			</inner-column>
 		</footer>
 
 	</body>

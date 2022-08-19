@@ -1,6 +1,6 @@
 <?php
 
-$database = [ // an associative array (Array of key:value pairs)
+$database = [
 	[
 		"heading" => "<span>Learning</span> new concepts...",
 		"description" => "I think that method is good for practice and memorization but there are deeper ways to learn things that enhance understanding...",
