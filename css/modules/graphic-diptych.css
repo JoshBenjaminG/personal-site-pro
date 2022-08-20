@@ -9,7 +9,7 @@ graphic-diptych {
   place-items: center;
 }
 
-landing-logo {
+graphic-diptych landing-logo {
   display: block;
   width: 100%;
   max-width: 500px;
