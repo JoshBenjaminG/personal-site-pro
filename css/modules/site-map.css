@@ -10,18 +10,15 @@
   max-width: 40px;
 }
 
-
-@media (min-width:  700px) {
-  site-map nav {
-    width:  50%;
-  }
+.site-map .links div {
+  display: flex;
+  flex-direction: column;
 }
 
-@media (min-width:  900px) {
-  site-map nav {
-    width:  25%;
+@media (min-width:  700px) {
+  .site-map .links div {
+    flex-direction: row;
   }
-
 }
 
 site-map nav {

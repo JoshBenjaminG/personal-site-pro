@@ -11,6 +11,11 @@
             "sections":
             [
                 {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
+                },
+                {
                     "module": "text",
                     "heading": "Project Goals",
                     "content": "<p class='calm-voice'>The goal for this project was to research and emulate designs from a set of industries. I decided to research the luxury hotel industry because of the high quality of images about travel and hospitality.</p><p class='calm-voice'>I like to let the content guide the design - if I can find premium, high-end images, then I’ll go for a luxury level of design that reinforces the 5 star feel of the content. Different content calls for different design.</p>"
@@ -61,6 +66,11 @@
             "sections":
             [
                 {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/riche-fashion",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/"
+                },
+                {
                     "module": "text",
                     "heading": "Project Goals",
                     "content": "<p class='calm-voice'>In this project, I wanted to produce a design that was based on my research of high-end fashion websites. I began by researching various sites like Prada and Gucci to see what visual language they used.</p>"
@@ -93,7 +103,6 @@
                     "caption": "This is an example of that research",
                     "description": "<p class='calm-voice'>With the userfeedback from the style tile phase in hand, I created the first version of the layout. I was pleased with the direction of the project, and was keeping many of the design choices I learned from other websites in mind.</p> <p class='calm-voice'>This still left another step to go: I had to create other pages, including the item lists and detail lists. I knew going in that I would have to learn quite a bit about databases and JSON - and accessing those items to show on the page. I was trying to make an ecommerce site without unique items and filters. It wouldn't be a cake walk.</p>"
                 }
-
             ]
         }
     },
@@ -103,6 +112,27 @@
         "description": "<span>Some s</span>olutio<span>ns t</span>o a n<span>i</span>fty book fu<span>ll</span> of l<span>angua</span>ge-agno<span>st</span>ic c<span>hallen</span>ges <span>design</span>ed to <span>dev</span>elop your coding <span>skill</span>s.",
         "thumbnail": "images/projectimage6.jpg",
         "url": "https://peprojects.dev/alpha-3/josh/projects/e4p/",
-        "slug": "678"
+        "slug": "678",
+        "case-study":
+        {
+            "sections":
+            [
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/e4p",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/e4p/"
+                },
+                {
+                    "module": "text",
+                    "heading": "Project Goals",
+                    "content": "<p class='calm-voice'>In this project, I wanted to improve my programming skills by following challenges in the book: 'Exercises for Programmers 4.'</p>"
+                },
+                {
+                    "module": "text",
+                    "heading": "Next steps",
+                    "content": "<p class='calm-voice'>This was a great project to learn with, and I am also going to read a book on algorithms called 'Grokking Algorithms' when I'm done completing these challenges.</p>"
+                }
+            ]
+        }
     }
 ]
