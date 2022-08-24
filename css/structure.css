@@ -16,5 +16,5 @@ inner-column {
 	max-width: 900px; /* could be a variable in settings */
 	margin-right: auto;
 	margin-left: auto;
-	padding: 5px 15px; /* a default */
+	padding: 15px 15px; /* a default */
 }

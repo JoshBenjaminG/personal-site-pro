@@ -22,7 +22,6 @@ writing-card  {
   display: block;
   display: flex;
   flex-direction: column;
-  padding: 15px;
   min-height: 20vh;
 }
 
@@ -39,9 +38,7 @@ writing-card .project-a {
 }
 
 .project-a {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  letter-spacing: 0.04em;
+
 }
 
 writing-card .project-a {
@@ -66,16 +63,7 @@ article-card:hover {
   transition: box-shadow 0.3s ease-in-out;
 }*/
 
-writing-card {
-  border: 1px solid rgba(255, 187, 148, 0.5);
-  box-shadow: 0 0px 0px rgba(0,0,0,0.15);
-  transition: box-shadow 0.3s ease-in-out;
-}
 
-writing-card:hover {
-  border: 1px solid rgba(255, 187, 148, 1);
-  transition: box-shadow 0.2s ease-in-out;
-}
 
 
 

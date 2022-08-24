@@ -1,8 +1,7 @@
 
 call-to-action {
   display: block;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  
   /* */
   display: flex;
   flex-direction: column;
@@ -21,11 +20,11 @@ call-to-action a {
 
 call-to-action p span {
   font-style: italic;
-  font-weight: 700;
+ 
 }
 
 call-to-action .attention-voice {
-  font-weight: 700;
+ 
 }
 
 @media (min-width: 600px) {

@@ -1,11 +1,10 @@
 
 projects-intro {
   display: block;
-  padding: 50px 0;
+ 
 }
 
 projects-intro header {
-  margin-bottom: 40px;
   max-width: 60ch;
 }
 
@@ -16,11 +15,11 @@ projects-intro project-grid {
 
 projects-intro header p span {
   font-style: italic;
-  font-weight: 700;
+  
 }
 
 projects-intro header h2 {
-  font-weight: 700;
+ 
 }
 
 @media(min-width: 600px){

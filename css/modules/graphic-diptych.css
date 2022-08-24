@@ -1,8 +1,7 @@
 
 graphic-diptych {
   display: block;
-  padding-top: 4vh;
-  padding-bottom: 4vh;
+
   /* */
   display: grid;
   min-height: 50vh;
