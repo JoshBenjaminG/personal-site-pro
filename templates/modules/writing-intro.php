@@ -4,9 +4,7 @@
 <writing-intro>
 
   <header>
-    <h2 class='attention-voice'>Some Writing...</h2>
-
-    <p class='calm-voice'>I try to document my process while developing. Here are some examples of that writing.</p>
+    <h2 class='loud-voice'>Some Writing...</h2>
   </header>
 
   <writing-grid>

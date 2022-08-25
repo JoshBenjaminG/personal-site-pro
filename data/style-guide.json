@@ -1,15 +1,12 @@
 [
   {
-    "module": "graphic-diptych"
-  },
-  {
     "module": "call-to-action",
-    "header": "<h2 class='attention-voice'>Call to action header.</h2>",
+    "header": "<h2 class='loud-voice'>Call to action header.</h2>",
     "content":"<p class='calm-voice'><span class='intro'>Call to action content paragraph</p>"
   },
   {
     "module": "projects-intro",
-    "header": "<h2 class='attention-voice'>Projects intro header</h2>",
+    "header": "<h2 class='loud-voice'>Projects intro header</h2>",
     "content": "<p class='calm-voice'>projects intro content</a>"
   },
   {

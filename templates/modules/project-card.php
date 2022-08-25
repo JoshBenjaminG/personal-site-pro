@@ -2,7 +2,7 @@
 	// you could simplify the $variables up here if you want....
 	// example
 	$thumbnail = $project["thumbnail"];
-	// it may or may not - be more readable
+	// it may or may not - be more readableloud
 
 ?>
 
@@ -13,7 +13,7 @@
 			<img src='<?=$thumbnail?>' loading='lazy' alt='$todo'>
 		</picture>
 
-		<h2 class='attention-voice project-title'><span><?=$project['heading']?></span></h2>
+		<h2 class='attention-voice project-title'><?=$project['heading']?></h2>
 
 		<p class='calm-voice tech'><?=$project['technologies']?></p>
 

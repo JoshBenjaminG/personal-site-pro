@@ -14,12 +14,12 @@ writing-intro writing-grid {
 }
 
 writing-intro header p span {
-  font-style: italic;
-  font-weight: 700;
+
+  
 }
 
 writing-intro header h2 {
-  font-weight: 700;
+
 }
 
 @media(min-width: 600px){
@@ -30,7 +30,7 @@ writing-intro header h2 {
 
 @media(min-width: 900px){
   writing-grid {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr;
   }
 }
 

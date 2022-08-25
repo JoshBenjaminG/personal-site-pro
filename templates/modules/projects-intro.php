@@ -11,9 +11,7 @@ $projects = getData('data/projects.json');
   <projects-intro id='projects'>
 
     <header>
-      <h2 class='attention-voice'>Featured Projects...</h2>
-
-      <p class='calm-voice'>I like to brush up on my design chops, as well as programming exercises. These are some recent projects I've been working on.</p>
+      <h2 class='loud-voice'>Featured Projects...</h2>
     </header>
 
     <project-grid>
