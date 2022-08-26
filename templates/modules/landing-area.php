@@ -5,22 +5,22 @@ $content = $module["content"];
 
 ?>
 
-<section class='stuff'>
+<section class='landing'>
 <inner-column>
 
 
-  <landing-area id='projects'>
+  <landing-area>
 
 
-    <project-grid>
+    <landing-content>
     
-			<?=$header?>
+			<p><?=$header?></p>
 
 			<div></div>
 
-			<?=$content?>
+		  <p><?=$content?></p>
 
-    </project-grid>
+    </landing-content>
 
   </landing-area>
 

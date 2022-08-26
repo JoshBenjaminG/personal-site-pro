@@ -67,12 +67,12 @@ body {
 	/*background-color: #9ec9eb;*/
 	position: sticky;
 	top: 0;
-	 box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+	 border-bottom: 1px solid rgba(229, 229, 219, 0.7);
 	 z-index: 1;
 	/*box-shadow: 0 2px 5px 0px rgba(0,0,0,.4);*/
 }
 .site-header inner-column {
-	padding: 0 14px;
+	padding: 10px 14px;
 }
 
 
@@ -87,10 +87,12 @@ body {
   color: var(--white);
 }
 
-.welcome {
 
+@media(min-width: 900px) {
+.landing {
+	margin-top: 80px;
 }
-
+}
 
 /* things kinda just start grouping up... and you'll know when something should be grouped into another file - most of the time */
 

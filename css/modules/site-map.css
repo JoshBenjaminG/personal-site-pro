@@ -1,25 +1,33 @@
+
 .site-map {
-  display: flex;
-  justify-content: space-between;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  display: block;
 }
 
-.site-map .logo {
-  fill: black;
-  max-width: 40px;
+footer .links {
+  display: grid;
+  grid-gap: 1em;
 }
+
 
 .site-map .links div {
   display: flex;
+  align-items: flex-start;
   flex-direction: column;
 }
 
-@media (min-width:  700px) {
-  .site-map .links div {
-    flex-direction: row;
+
+@media(min-width: 600px){
+  .site-map .links {
+    grid-template-columns: 1fr 1fr;
   }
 }
+
+@media(min-width: 900px){
+  .site-map .links {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
 
 site-map nav {
   flex-grow:  1;

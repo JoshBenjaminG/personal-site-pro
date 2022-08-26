@@ -52,6 +52,10 @@ h2 + p {
 	margin-top: 5px;
 }
 
+h2 {
+	margin-bottom: 20px;
+}
+
 span {
   color: #f43c3c;
 }

@@ -4,7 +4,7 @@ landing-area {
   display: block;
 }
 
-landing-area project-grid {
+landing-area landing-content {
   display: grid;
   grid-gap: 1em;
 }
@@ -14,19 +14,20 @@ landing-area header p span {
   
 }
 
-landing-area header h2 {
- 
-}
-
 @media(min-width: 600px){
- landing-area project-grid {
+ landing-area landing-content {
     grid-template-columns: 1fr 1fr;
   }
 }
 
 @media(min-width: 900px){
-  landing-area project-grid {
+  landing-area landing-content {
     grid-template-columns: 1fr 1fr 1fr;
   }
+}
+
+landing-area landing-content p:nth-of-type(2) {
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
 }
 
