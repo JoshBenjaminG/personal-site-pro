@@ -1,0 +1,32 @@
+
+
+landing-area {
+  display: block;
+}
+
+landing-area project-grid {
+  display: grid;
+  grid-gap: 1em;
+}
+
+landing-area header p span {
+  font-style: italic;
+  
+}
+
+landing-area header h2 {
+ 
+}
+
+@media(min-width: 600px){
+ landing-area project-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media(min-width: 900px){
+  landing-area project-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+

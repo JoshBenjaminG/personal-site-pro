@@ -41,7 +41,7 @@
 /* these would be scoped to section or to an article element */
 /* this is just a loose setting for now $todo */
 p + p {
-	margin-top: 10px;
+	
 }
 
 h1 + p {
