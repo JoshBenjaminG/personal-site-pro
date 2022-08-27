@@ -1,5 +1,13 @@
+<?php 
 
-<mast-head>
+if ($_GET['page'] == 'home') {
+	$class = 'mast-head-animation';
+}
+
+?>
+
+
+<mast-head class='<?=$class?>'>
 
 	<nav class='site-menu'>
 		<a class='logo' href='?page=home'>

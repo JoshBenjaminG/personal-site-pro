@@ -121,6 +121,7 @@ body {
 .site-footer {
   background-color: #f65752;
 	color: var(--white);
+	padding-bottom: 50px;
 }
 
 .site-footer .logo {

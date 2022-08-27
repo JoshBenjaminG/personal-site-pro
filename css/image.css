@@ -1,5 +1,5 @@
 figure {
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 figure picture {
@@ -8,8 +8,9 @@ figure picture {
 
 figure picture {
 	max-width: 500px;
+	margin: 20px 0px;
 }
 
 generic-text h2 {
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
