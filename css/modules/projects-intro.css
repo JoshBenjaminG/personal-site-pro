@@ -1,16 +1,21 @@
 
 projects-intro {
   display: block;
- 
 }
 
 projects-intro header {
   max-width: 60ch;
+  opacity: 0;
+  animation: upFadeIn 0.5s forwards ease-in-out;
+  animation-delay: 1.2s;
 }
 
 projects-intro project-grid {
   display: grid;
-  grid-gap: 1em;
+  grid-gap: 2em 1em;
+  opacity: 0;
+  animation: upFadeIn 0.5s forwards ease-in-out;
+  animation-delay: 1.4s;
 }
 
 projects-intro header p span {

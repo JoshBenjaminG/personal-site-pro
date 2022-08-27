@@ -19,9 +19,9 @@ $content = $module["content"];
 	<inner-column>
 
 		<call-to-action>
-			<?=$header?>
+			<h2 class='loud-voice'><?=$header?></h2>
 
-			<?=$content?>
+			<p class='calm-voice'><?=$content?></p>
 		</call-to-action>
 
 	</inner-column>

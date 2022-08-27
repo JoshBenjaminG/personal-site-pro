@@ -1,7 +1,9 @@
 
 writing-intro {
   display: block;
-
+  opacity: 0;
+  animation: upFadeIn 0.5s forwards ease-in-out;
+  animation-delay: 1.5s;
 }
 
 writing-intro header {

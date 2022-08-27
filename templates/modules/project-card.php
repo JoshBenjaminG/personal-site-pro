@@ -15,7 +15,7 @@
 
 		<h2 class='attention-voice project-title'><?=$project['heading']?></h2>
 
-		<p class='calm-voice tech'><?=$project['technologies']?></p>
+		<h3 class='calm-voice tech'><?=$project['technologies']?></h3>
 
 		<p class='calm-voice'><?=$project['description']?></p>
 	</a>

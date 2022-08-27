@@ -13,9 +13,9 @@ writing-card h2 span {
   transition: color 0.2s ease-in-out;
 }
 
-writing-card:hover h2 span {
-  color: #f53c3c;
-  transition: color 0.2s ease-in-out;
+writing-card:hover h2  {
+  opacity: 0.5;
+  text-decoration: underline;
 }
 
 writing-card  {
@@ -25,7 +25,7 @@ writing-card  {
 }
 
 writing-card p {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 writing-card .project-a {

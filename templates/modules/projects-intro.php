@@ -13,7 +13,7 @@ $projects = getData('data/projects.json');
     <header>
       <h2 class='loud-voice'>Featured Projects...</h2>
 
-      <p>I like to implement the tools I learn into projects...</p>
+      <p>I like to implement the tools I learn into projects to improve!</p>
     </header>
 
 

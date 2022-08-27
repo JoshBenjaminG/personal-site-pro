@@ -3,6 +3,9 @@ mast-head {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  opacity: 0;
+  animation: upFadeIn 0.5s forwards ease-in-out;
+  animation-delay: 0.4s;
 }
 
 

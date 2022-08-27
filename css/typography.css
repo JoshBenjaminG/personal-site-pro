@@ -19,7 +19,7 @@
 
 .calm-voice, p, a{
 	font-family: 'Roboto', sans-serif;
-	font-size: 1rem;
+	font-size: .9rem;
 	line-height: 1.4;
 }
 
@@ -41,7 +41,7 @@
 /* these would be scoped to section or to an article element */
 /* this is just a loose setting for now $todo */
 p + p {
-	
+
 }
 
 h1 + p {
@@ -53,7 +53,7 @@ h2 + p {
 }
 
 h2 {
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 }
 
 span {

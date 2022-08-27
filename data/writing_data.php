@@ -3,13 +3,13 @@
 $database = [
 	[
 		"heading" => "Learning new concepts...",
-		"description" => "I think that method is good for practice and memorization but there are deeper ways to learn things that enhance understanding...",
+		"description" => "I have learned HTML in two different ways. The first is by seeing and doing: This is the p tag. Write the p tag. This is a div. Write a div tag etc.",
 		"url" => "https://joshdev.substack.com/p/learning-new-concepts-at-deeper-levels",
 		"slug" => "123",
 	],
 	[
 		"heading" => "Creating Derma-Ology",
-		"description" => "I was struggling with finding who the target audience was and what types of language and images to include.",
+		"description" => "Finding who the target audience was and what types of images to include.",
 		"url" => "https://joshdev.substack.com/p/creating-derma-ology",
 		"slug" => "123",
 	],

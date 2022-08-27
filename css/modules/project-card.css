@@ -66,14 +66,15 @@ project-card span {
   transition: color 0.3s ease-in-out;
 }
 
-project-card:hover span {
-  color: #f53c3c;
-  transition: color 0.3s ease-in-out;
+project-card:hover h2 {
+  opacity: 0.5;
+  text-decoration: underline;
 }
 
 .tech {
   color: black;
   opacity: 0.5;
+  margin-bottom: 5px;
 }
 
 @media(min-width: 600px) {

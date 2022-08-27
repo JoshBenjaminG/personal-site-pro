@@ -16,7 +16,7 @@ $content = $module["content"];
     
 			<p><?=$header?></p>
 
-			<div></div>
+      
 
 		  <p><?=$content?></p>
 

@@ -6,17 +6,17 @@
 	<footer>
 
 		<nav class="links">
-			<div>
-				<a href="https://codepen.io/JoshuaEg" class="hover-underline-animation">Codepen</a>
-				<a href="https://github.com/JoshBenjaminG" class="hover-underline-animation">Github</a>
-				<a href="" class="hover-underline-animation">LinkedIn</a>
-			</div>
+			<ul>
+				<li><a href="https://codepen.io/JoshuaEg">Codepen</a></li>
+				<li><a href="https://github.com/JoshBenjaminG">Github</a></li>
+				<li><a href="">LinkedIn</a></li>
+			</ul>
 
-			<div>
-				<a href='?page=style-guide' class="hover-underline-animation">Style Guide</a>
-				<a href ="mailto: JoshuaEgage@gmail.com" class="hover-underline-animation">Contact</a>
-				<a href='?page=responsivelayouts' class="hover-underline-animation">Layouts</a>
-			</div>
+			<ul>
+				<li><a href='?page=style-guide'>Style Guide</a></li>
+				<li><a href ="mailto: JoshuaEgage@gmail.com">Contact</a></li>
+				<li><a href='?page=responsivelayouts'>Layouts</a></li>
+			</ul>
 		</nav>
 			
 	</footer>

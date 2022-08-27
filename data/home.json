@@ -2,12 +2,12 @@
   {
     "module": "landing-area",
     "header": "Hello, I’m Josh. Thanks for checking me out! This website is where I update my resume, projects, writing, and more!",
-    "content": "Take a look around - and don't hesitate to <a href='mailto: JoshuaEgage@gmail.com' class=''>reach out.</a>"
+    "content": "Take a look around - and don't hesitate to <a href='mailto: JoshuaEgage@gmail.com' class='hover-underline-animation'>reach out.</a>"
   },
   {
     "module": "call-to-action",
-    "header": "<h2 class='loud-voice'>A little about me...</h2>",
-    "content": "<p class='calm-voice'>As a web developer from the Gulf Coast, I discovered my passion for development in my last year of college. While I completed my formal education, I enrolled in a remote web development program to build on and reinforce my learning progress.</p>\n\t\t<p class='calm-voice'>I'm currently studying the entire development process at Perpetual Education. Find me and other students at the <a href='https://peprojects.dev/alpha-4/''>Alpha Net.</a> Definitely look at my <a href='https://github.com/JoshuaEgage'>Github</a> and Don’t hesitate to check me out at <a href='https://www.linkedin.com/in/joshua-gage-nm511/''>LinkedIn!</a>"
+    "header": "A little about me...",
+    "content": "A web developer from the Gulf Coast, I discovered my passion for development in college and enrolled in a remote web development program to further my learning.\n\t\tIm currently studying the entire development process at Perpetual Education. Definitely check out my <a href='https://github.com/JoshuaEgage' class='hover-underline-animation'>Github</a> and find me at <a href='https://www.linkedin.com/in/joshua-gage-nm511/' class='hover-underline-animation'>LinkedIn!</a>"
   },
   {
     "module": "projects-intro"

@@ -77,10 +77,6 @@ body {
 
 
 
-
-
-
-
 /* OK! SITE STYLES! */
 .site-header {
   background-color: #fefff7;
@@ -88,10 +84,9 @@ body {
 }
 
 
-@media(min-width: 900px) {
+
 .landing {
-	margin-top: 80px;
-}
+	margin-top: 50px;
 }
 
 /* things kinda just start grouping up... and you'll know when something should be grouped into another file - most of the time */
@@ -124,7 +119,7 @@ body {
 }
 
 .site-footer {
-  background-color: #f2f2eb;
+  background-color: #f65752;
 	color: var(--white);
 }
 
