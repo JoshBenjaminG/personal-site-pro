@@ -13,8 +13,8 @@ writing-intro writing-grid {
   grid-gap: 1em;
 }
 
-writing-intro header p span {
-
+writing-intro header p {
+  margin-bottom: 10px;
   
 }
 

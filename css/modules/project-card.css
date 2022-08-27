@@ -8,11 +8,12 @@ project-card {
   align-items: flex-start;
  /* background-color: white;*/
  padding-bottom: 25px;
+ margin-top: 10px;
  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 project-card h2 {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 project-card  {
@@ -72,6 +73,7 @@ project-card:hover span {
 
 .tech {
   color: black;
+  opacity: 0.5;
 }
 
 @media(min-width: 600px) {

@@ -5,6 +5,8 @@
 
   <header>
     <h2 class='loud-voice'>Some Writing...</h2>
+
+    <p class="calm-voice">I've been writing about my learning journey for a little while now!</p>
   </header>
 
   <writing-grid>

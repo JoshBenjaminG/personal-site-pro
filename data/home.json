@@ -1,8 +1,8 @@
 [ 
   {
     "module": "landing-area",
-    "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    "header": "Hello, I’m Josh. Thanks for checking me out! This website is where I update my resume, projects, writing, and more!",
+    "content": "Take a look around - and don't hesitate to <a href='mailto: JoshuaEgage@gmail.com' class=''>reach out.</a>"
   },
   {
     "module": "call-to-action",

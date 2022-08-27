@@ -28,7 +28,7 @@ mast-head .links {
 mast-head  .links a {
   padding: 0px 0px 2px 0px;
   margin: 0px 6px 0px 6px;
-  color: black;
+  color: #f43c3c;
 }
 
 @media (min-width: 600px) {
