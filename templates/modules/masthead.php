@@ -1,11 +1,17 @@
 <?php 
 
-if ($_GET['page'] == 'home') {
+$class = ' ';
+
+if ($page == 'home') {
 	$class = 'mast-head-animation';
+} else {
+	$class = ' ';
 }
 
-?>
 
+
+
+?>
 
 <mast-head class='<?=$class?>'>
 
@@ -27,4 +33,3 @@ if ($_GET['page'] == 'home') {
 	</nav>
 
 </mast-head>
-
