@@ -13,7 +13,7 @@ writing-card h2 span {
   transition: color 0.2s ease-in-out;
 }
 
-writing-card:hover h2  {
+writing-card h2:hover  {
   opacity: 0.5;
   text-decoration: underline;
 }
@@ -25,7 +25,15 @@ writing-card  {
 }
 
 writing-card p {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+}
+
+writing-card p:nth-of-type(2) {
+  color: rgba(245, 87, 82, 0.7)
+}
+
+writing-card p:nth-of-type(2):hover {
+  color: #f65752;
 }
 
 writing-card .project-a {

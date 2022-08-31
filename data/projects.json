@@ -98,7 +98,7 @@
                 },
                 {
                     "module": "image",
-                    "heading": "The first draft",
+                    "heading": "The First Draft",
                     "img": "images/trimmed-images/layout1.jpg",
                     "caption": "This is an example of that research",
                     "description": "<p class='calm-voice'>With the userfeedback from the style tile phase in hand, I created the first version of the layout. I was pleased with the direction of the project, and was keeping many of the design choices I learned from other websites in mind.</p> <p class='calm-voice'>This still left another step to go: I had to create other pages, including the item lists and detail lists. I knew going in that I would have to learn quite a bit about databases and JSON - and accessing those items to show on the page. I was trying to make an ecommerce site without unique items and filters. It wouldn't be a cake walk.</p>"

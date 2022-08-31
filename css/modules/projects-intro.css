@@ -16,6 +16,7 @@ projects-intro project-grid {
   opacity: 0;
   animation: upFadeIn 0.5s forwards ease-in-out;
   animation-delay: 1s;
+  margin-top: 20px;
 }
 
 projects-intro header p span {

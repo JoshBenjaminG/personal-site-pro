@@ -34,5 +34,8 @@
         "content": "<p>Start my first developer role and learn a lot more about the design and development process.</p><p>Become a CSS and JS wizard.</p><p>Dive into hard DS problems and sail through my algorithms text book.</p>"
       }
     ]
+  },
+  {
+    "module": "contact-me"
   }
 ]

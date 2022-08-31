@@ -41,6 +41,8 @@
 @import 'modules/resume-list.css';
 @import 'modules/project-links.css';
 @import 'modules/landing-area.css';
+@import 'modules/contact-me.css';
+@import 'modules/detail-goal.css';
 /*@import 'modules/layout-1.css';
 @import 'modules/layout2.css';*/
 /* should everything/nothing be in it's own file? */
@@ -93,7 +95,7 @@ body {
 
 
 .get-involved {
-  background-color: #fefff7;
+  padding-top: 50px;
 } /* interesting way to include the whole image in your CSS */
 
 .get-involved inner-column {

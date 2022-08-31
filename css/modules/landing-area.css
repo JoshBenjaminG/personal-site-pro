@@ -21,9 +21,8 @@ landing-area landing-content {
   grid-gap: 1em;
 }
 
-landing-area header p span {
-  font-style: italic;
-  
+.landing-p {
+  color: rgba(0, 0, 0, 0.4);
 }
 
 landing-area landing-content p a {

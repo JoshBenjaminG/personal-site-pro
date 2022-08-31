@@ -66,7 +66,7 @@ project-card span {
   transition: color 0.3s ease-in-out;
 }
 
-project-card:hover h2 {
+project-card h2:hover {
   opacity: 0.5;
   text-decoration: underline;
 }

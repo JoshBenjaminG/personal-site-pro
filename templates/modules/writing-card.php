@@ -5,5 +5,6 @@
 
 	<p class='calm-voice'>"<?=$article["description"]?>"</p>
 
+	<p class="calm-voice">Read More...</p>
 	</a>
 </writing-card>

@@ -15,6 +15,7 @@
     <?php foreach ($database as $article) { ?> 
       <?php include('writing-card.php'); ?>
     <?php } ?>
+    
   <writing-grid>
 
 </writing-intro>

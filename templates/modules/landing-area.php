@@ -14,11 +14,11 @@ $content = $module["content"];
 
     <landing-content>
     
-			<p><?=$header?></p>
+			<p class="landing-p"><?=$header?></p>
 
       
 
-		  <p><?=$content?></p>
+		  <p class="landing-p"><?=$content?></p>
 
     </landing-content>
 

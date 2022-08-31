@@ -1,0 +1,13 @@
+.module-section {
+    display: grid;
+}
+
+@media(min-width: 500px){
+  .module-section {
+      grid-template-columns: 2fr 1fr;
+    }
+  generic-text p, h2 {
+    max-width: 60ch;
+  }
+}
+

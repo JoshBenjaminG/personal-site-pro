@@ -1,10 +1,5 @@
 [ 
   {
-    "module": "landing-area",
-    "header": "Hello, I’m Josh. Thanks for checking this out! This website is where I update my resume, projects, writing, and more!",
-    "content": "Take a look around - and don't hesitate to <a href='mailto: JoshuaEgage@gmail.com' class='hover-underline-animation'>reach out.</a>"
-  },
-  {
     "module": "call-to-action",
     "header": "A little about me...",
     "content": "A web developer from the Gulf Coast, I discovered my passion for development in college and enrolled in a remote web development program to further my learning.\n\t\tIm currently studying the entire development process at Perpetual Education. Definitely check out my <a href='https://github.com/JoshuaEgage' class='hover-underline-animation'>Github</a> and find me at <a href='https://www.linkedin.com/in/joshua-gage-nm511/' class='hover-underline-animation'>LinkedIn!</a>"
@@ -14,5 +9,8 @@
   },
   {
     "module": "writing-intro"
+  },
+  {
+    "module": "contact-me"
   }
 ]

@@ -19,8 +19,8 @@
 
 .calm-voice, p, a{
 	font-family: 'Roboto', sans-serif;
-	font-size: .9rem;
-	line-height: 1.4;
+	font-size: 1.1rem;
+	line-height: 1.5;
 }
 
 .greetings {
@@ -45,7 +45,7 @@ p + p {
 }
 
 h1 + p {
-	margin-top: 5px;
+	margin-top: 0px;
 }
 
 h2 + p {
@@ -53,7 +53,7 @@ h2 + p {
 }
 
 h2 {
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
 
 span {
