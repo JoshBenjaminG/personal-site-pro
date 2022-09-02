@@ -13,14 +13,18 @@ foreach ($projects as $project) {
 }
 ?>
 
+<case-study>
 <inner-column>
-<?php foreach($this_project["case-study"]["sections"] as $section) { ?>
+	<?php foreach($this_project["case-study"]["sections"] as $section) { ?>
 
 	<section class="module-section">
+	<case-study-grid>
 
 		<?php include("templates/modules/$section[module].php"); ?>
 
+	</case-study-grid>
 	</section>
 
-<?php } ?>
+	<?php } ?>
 </inner-column>
+</case-study>

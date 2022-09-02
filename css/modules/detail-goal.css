@@ -1,11 +1,16 @@
-.module-section {
-    display: grid;
+case-study {
+    display: block;
+
+}
+
+case-study-grid {
+  display: grid;
 }
 
 @media(min-width: 500px){
-  .module-section {
+  case-study-grid {
       grid-template-columns: 2fr 1fr;
-    }
+  }
   generic-text p, h2 {
     max-width: 60ch;
   }
