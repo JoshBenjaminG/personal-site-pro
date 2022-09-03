@@ -1,14 +1,13 @@
-figure {
+generic-text picture {
 	margin-bottom: 20px;
 }
 
-figure picture {
+generic-text picture {
 	box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
 }
 
-figure picture {
+generic-text picture {
 	max-width: 800px;
-	margin: 15px 0px;
 }
 
 generic-text h2 {

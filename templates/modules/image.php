@@ -3,8 +3,9 @@
 
 	$heading = $section["heading"] ?? "";
 	$img = $section["img"] ?? "Project Image Img Module";
-	$caption = $section["caption"] ?? "Project Image caption Module";
+	$caption = $section["caption"] ?? "";
 	$description = $section["description"] ?? "Project Image description Module";
+	$second_img = $section["second_img"] ?? "";
 
 ?>
 
@@ -19,7 +20,7 @@
 		
 	<?php } ?>
 	
-	<figure>
+
 			
 		<picture>
 			
@@ -27,12 +28,21 @@
 			
 		</picture>
 		
-
-		<figcaption class="calm-voice"><?$caption?></figcaption>
-	</figure>
+	
+	
 	
 	<?=$description?>
 </generic-text>
+
+<?php if ($caption) { ?>
+	<?=$caption?>
+<?php } ?>
+
+<?php if ($second_img) { ?>
+	<picture>
+		<img src="<=$second_imgsecond_img?>" alt="">
+	</picture>
+<?php } ?>
 
 <?php if ($page == 'style-guide') { ?>
 <inner-column>

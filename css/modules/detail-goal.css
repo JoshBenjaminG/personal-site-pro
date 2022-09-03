@@ -1,18 +1,23 @@
 case-study {
-    display: block;
-
+  display: block;
 }
 
 case-study-grid {
   display: grid;
+  grid-gap: 20px;
 }
 
-@media(min-width: 500px){
+@media(min-width: 700px){
   case-study-grid {
       grid-template-columns: 2fr 1fr;
   }
   generic-text p, h2 {
     max-width: 60ch;
   }
+  .caption {
+    grid-column: 2;
+  }
 }
+
+
 
