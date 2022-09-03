@@ -8,16 +8,12 @@
 	font-size: 40px;
 }
 
-.attention-voice	{
+.attention-voice, h3	{
 	font-family: 'Roboto', sans-serif;
-	font-size: 1.3rem;
+	font-size: 1.8rem;
 }
 
-.something-for-site-map-headings {
-	/* */
-}
-
-.calm-voice, p, a{
+.calm-voice, p, a, li{
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.1rem;
 	line-height: 1.5;

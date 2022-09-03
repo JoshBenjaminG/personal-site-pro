@@ -14,7 +14,7 @@ case-study-grid {
   generic-text p, h2 {
     max-width: 60ch;
   }
-  .caption {
+  .caption, .second_image {
     grid-column: 2;
   }
 }

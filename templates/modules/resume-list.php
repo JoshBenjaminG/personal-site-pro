@@ -12,12 +12,21 @@ $sections = $module["sections"];
 			<h1 class="attention-voice"><?=$header?></h1>
 		</generic-text>
 
+	
+
 		<?php foreach($sections as $section) { ?>
+			<resume-grid>
 	 		<section class="resume">
-				<h1 class="attention-voice"><?=$section["header"]?></h1>
-				<p><?=$section["content"]?></p>
+				<?=$section["header"]?>
+
+				<ul>
+					<?=$section['content']?>
+				</ul>
 			</section>
+			</resume-grid>
 		<?php } ?>	
+
+
 
 	</inner-column>
 </section>
