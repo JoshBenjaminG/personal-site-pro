@@ -51,3 +51,10 @@ contact-me {
   animation: upFadeIn 0.5s forwards ease-in-out;
   animation-delay: 1.5s;
 }
+
+contact-me div {
+  color: red;
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}

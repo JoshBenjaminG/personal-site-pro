@@ -1,6 +1,7 @@
 <?php 
 
 $error_message = "";
+$message = false;
 
 
 if(isset($_POST['submit'])) {
@@ -16,7 +17,7 @@ if(isset($_POST['submit'])) {
     if ($message) {
     	mail($to, $subject, $message);
     } else {
-    	$error_message = "<h3>There was an error.</h3>";
+    	$error_message = "<div>There was an error.</div>";
     }
 }
 
@@ -27,9 +28,12 @@ if(isset($_POST['submit'])) {
 	<inner-column>
 
 		<contact-me>
+	
 
 			<h2 class="loud-voice">Let's talk!</h2>
 			<p>Interesting in working with me? Let's get in touch.</p>
+
+			<?=$error_message?>
 			<form action="" method="post">
 
 				<input type="text" name="name" placeholder="Name"><br>
@@ -37,7 +41,7 @@ if(isset($_POST['submit'])) {
 				<textarea rows="5" name="message" cols="30" placeholder="Enter Message..."></textarea><br>
 				<input type="submit" name="submit" value="Submit" class="form-input">
 			</form>
-			<?=$error_message?>
+		
 
 		</contact-me>
 
