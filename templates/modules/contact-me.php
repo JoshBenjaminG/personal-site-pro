@@ -2,15 +2,21 @@
 
 $error_message = "";
 
+
 if(isset($_POST['submit'])) {
-    $to = "joshuaegage@gmail.com";
-    $name = $_POST['name'];
+	$to = "joshuaegage@gmail.com";
     $subject = "Form submission";
-    $message = $name . " wrote:" . "\n\n" . $_POST['message'];
-    if ($name) {
+
+	if (strlen($_POST['name']) > 0) {
+		$name = $_POST['name'];
+	}
+	if (strlen($_POST['message']) > 0) {
+		$message = $name . " wrote:" . "\n\n" . $_POST['message'];
+	}
+    if ($message) {
     	mail($to, $subject, $message);
     } else {
-    	$error_message = "<h3>enter your name</h3>";
+    	$error_message = "<h3>There was an error.</h3>";
     }
 }
 

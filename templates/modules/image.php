@@ -20,23 +20,26 @@
 		
 	<?php } ?>
 	
-
-			
+	
 		<picture>
 			
 			<img src="<?=$img?>" alt="">
 			
 		</picture>
+
+
 		
-	
-	
-	
-	<?=$description?>
+
 </generic-text>
 
 <?php if ($caption) { ?>
 	<?=$caption?>
 <?php } ?>
+
+<?=$description?>
+
+
+
 
 <?php if ($second_img) { ?>
 	<picture>

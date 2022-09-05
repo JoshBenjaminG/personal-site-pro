@@ -18,3 +18,12 @@ generic-text h2 {
 generic-text p {
 	margin-bottom: 20px;
 }
+
+@media(min-width: 700px) {
+	.description {
+		grid-column: 1;
+	}
+	.caption {
+		grid-column: 2;
+	}
+}

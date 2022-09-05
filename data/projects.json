@@ -23,8 +23,8 @@
                 {
                     "module": "image",
                     "img": "images/research-picture.jpg",
-                    "caption": "<p>I like to let the content guide the design - if I can find high-end images, then I’ll go for a luxury level of design.</p>",
-                    "description": "<p>Based on my research, I noticed that I should use colorful images, but stick to more neutral colors. With web designs in the luxury hotel niche, the content should do most of the heavy lifting. Images of the hotel or the activities that guests can expect should be front and center.</p>"
+                    "caption": "<p class='caption'>I like to let the content guide the design - if I can find high-end images, then I’ll go for a luxury level of design.</p>",
+                    "description": "<p class='description'>Based on my research, I noticed that I should use colorful images, but stick to more neutral colors. With web designs in the luxury hotel niche, the content should do most of the heavy lifting. Images of the hotel or the activities that guests can expect should be front and center.</p>"
                 },
                 {
                     "module": "text",
