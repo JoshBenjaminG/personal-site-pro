@@ -133,5 +133,34 @@
                 }
             ]
         }
+    },
+   {
+        "heading": "Figma Conversion",
+        "technologies": "HTML, PHP, CSS",
+        "description": "A complete mockup of a design that started in a figma file.",
+        "thumbnail": "images/projectimage9.png",
+        "url": "https://peprojects.dev/alpha-3/josh/projects/figma/figma-conversion/",
+        "slug": "777",
+        "case-study":
+        {
+            "sections":
+            [
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/e4p",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/e4p/"
+                },
+                {
+                    "module": "text",
+                    "heading": "Project Goals",
+                    "content": "<p class='calm-voice'>In this project, I wanted to improve my programming skills by following challenges in the book: 'Exercises for Programmers 4.'</p>"
+                },
+                {
+                    "module": "text",
+                    "heading": "Next steps",
+                    "content": "<p class='calm-voice'>This was a great project to learn with, and I am also going to read a book on algorithms called 'Grokking Algorithms' when I'm done completing these challenges.</p>"
+                }
+            ]
+        }
     }
 ]
