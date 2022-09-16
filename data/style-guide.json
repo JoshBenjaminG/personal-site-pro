@@ -14,8 +14,8 @@
   },
   {
     "module": "text",
-    "heading" : "Text module heading",
-    "content" : "<p class='calm-voice'>Text module content paragraph</p>"
+    "heading" : "This is an example of a case study heading",
+    "content" : "<p class='calm-voice'>This could be a paragraph for the case study module content.</p>"
   },
   {
     "module": "resume-list",

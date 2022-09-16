@@ -1,7 +1,7 @@
 <?php 
 
-	$heading = $section["heading"] ?? "Project Text Heading Module"; 
-	$content = $section["content"] ?? "Project Text Content Module";
+	$heading = $section["heading"] ?? "This is an example of a case study heading"; 
+	$content = $section["content"] ?? "This could be a paragraph for the case study module content.";
 	
 ?>
 
