@@ -162,5 +162,29 @@
                 }
             ]
         }
+    },
+   {
+        "heading": "Crebbits Games",
+        "technologies": "HTML, PHP, CSS, JS",
+        "description": "WIP: Created for a new board game company, and instructions that integrate with the physical game and serves as a landing page for game users.",
+        "thumbnail": "images/project-image10.png",
+        "url": "https://peprojects.dev/alpha-3/josh/",
+        "slug": "679",
+        "case-study":
+        {
+            "sections":
+            [
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/perpetual-education/crebbits-homepage",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/"
+                },
+                {
+                    "module": "text",
+                    "heading": "Project Goals",
+                    "content": "<p class='calm-voice'>This site is currently under construction: Crebbits releases this October.</p>"
+                }
+            ]
+        }
     }
 ]
