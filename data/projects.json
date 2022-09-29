@@ -16,11 +16,6 @@
                     "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
                 },
                 {
-                    "module": "text",
-                    "heading": "Croatian Coasts",
-                    "content": "<p class='calm-voice'>The goal for this project was to research and emulate designs from a set of industries. I decided to research the luxury hotel industry because of the high quality of images about travel and hospitality.</p>"
-                },
-                {
                     "module": "image",
                     "img": "images/research-picture.jpg",
                     "caption": "<p class='caption'>I like to let the content guide the design - if I can find high-end images, then I’ll go for a luxury level of design.</p>",
@@ -29,26 +24,13 @@
                 {
                     "module": "text",
                     "heading": "The Style Tile Phase",
-                    "content": "<p> Practically, style tiles are able to quickly communicate high-level ideas about the direction of the design process to achieve feedback ASAP. The feedback process from designer, developer, and client is one of the most important steps in the development process and if used correctly, style tiles \ncan increase final product quality in a timely manner at an efficient cost. </p>"
+                    "content": ""
                 },
                 {
                     "module": "image",
                     "img": "images/style-tilecasestudy1.jpg",
                     "caption": "<p>“Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.” - Style-tile.come</p>",
                     "description": "<p>I stuck to content that was similar to what I found in my research, and decided to go for white backgrounds to accentuate the hotel images. During feedback, I decided to also include more images as transparent backgrounds to display text, to give the page a more dynamic and premium feel.</p>"
-                },
-                {
-                    "module": "image",
-                    "heading": "A CSS and PHP design framework",
-                    "img": "images/responsive-module1.jpg",
-                    "caption": "",
-                    "description": "<p class='calm-voice'>This is the basic skeletal structure of the site, and while I’ll go on to change it, this design provides a solid foundation for the style tile elements to be added.</p> <p class='calm-voice'>This process would serve as a jumping off point to add and change the structure of the site moving forward.</p>"
-                },
-                {
-                    "module": "image",
-                    "heading": "The Finished Product",
-                    "img": "",
-                    "description": "<p class='calm-voice'>After several iterations and rounds of feedback, I learned that what makes a design feel pro is the last few percent - the small details make the biggest difference.</p>"
                 }
             ]
         }

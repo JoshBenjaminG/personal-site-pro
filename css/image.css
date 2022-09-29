@@ -1,5 +1,5 @@
 generic-text picture {
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 }
 
 generic-text picture {
@@ -11,12 +11,11 @@ generic-text picture {
 }
 
 generic-text h2 {
-	margin-bottom: 20px;
-	margin-top: 10px;
+
 }
 
 generic-text p {
-	margin-bottom: 20px;
+
 }
 
 @media(min-width: 700px) {

@@ -15,6 +15,7 @@ foreach ($projects as $project) {
 
 <case-study>
 <inner-column>
+	<h1 class="project-name"><?=$this_project["heading"]?></h3>
 	<?php foreach($this_project["case-study"]["sections"] as $section) { ?>
 
 	<section class="module-section">

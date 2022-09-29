@@ -33,7 +33,7 @@
 </generic-text>
 
 <?php if ($caption) { ?>
-	<?=$caption?>
+	<?=$caption?>	
 <?php } ?>
 
 <?=$description?>
