@@ -18,13 +18,14 @@
                 {
                     "module": "image",
                     "img": "images/research-picture.jpg",
-                    "caption": "<p class='caption'>I like to let the content guide the design - if I can find high-end images, then I’ll go for a luxury level of design.</p>",
-                    "description": "<p class='description'>The research for this project began with looking at similar websites in the hotel-resort chain market. When researching, I begin </p>"
+                    "caption": "<p>“Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.” - Style-tile.come</p>",
+                    "description": "<p>I stuck to content that was similar to what I found in my research, and decided to go for white backgrounds to accentuate the hotel images. During feedback, I decided to also include more images as transparent backgrounds to display text, to give the page a more dynamic and premium feel.</p>"
                 },
                 {
-                    "module": "text",
-                    "heading": "The Style Tile Phase",
-                    "content": ""
+                    "module": "image",
+                    "img": "images/project-image-99.jpg",
+                    "caption": "<p>“Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.” - Style-tile.come</p>",
+                    "description": "<p>I stuck to content that was similar to what I found in my research, and decided to go for white backgrounds to accentuate the hotel images. During feedback, I decided to also include more images as transparent backgrounds to display text, to give the page a more dynamic and premium feel.</p>"
                 },
                 {
                     "module": "image",

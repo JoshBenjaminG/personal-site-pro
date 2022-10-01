@@ -4,17 +4,23 @@ case-study inner-column .project-name {
   margin-bottom: 10px;
 }
 
+case-study inner-column .module-section {
+  margin-top: 30px;
+}
+
 case-study {
   display: block;
 }
 
 case-study-grid {
   display: grid;
-  grid-gap: 0px;
+  grid-template-columns: 1fr;
+  gap: 20px;
 }
 
-@media(min-width: 700px){
+@media(min-width: 1000px){
   case-study-grid {
+      display: grid;
       grid-template-columns: 2fr 1fr;
   }
   generic-text p, h2 {
