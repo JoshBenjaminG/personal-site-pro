@@ -41,7 +41,7 @@ if(isset($_POST['submit'])) {
 				<textarea rows="5" name="message" cols="30" placeholder="Enter Message..."></textarea><br>
 				<input type="submit" name="submit" value="Submit" class="form-input">
 			</form>
-		
+			
 
 		</contact-me>
 

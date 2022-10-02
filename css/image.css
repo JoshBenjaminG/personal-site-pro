@@ -8,6 +8,7 @@ generic-text picture {
 
 generic-text picture {
 	max-width: 800px;
+	margin-bottom: 20px;
 }
 
 generic-text h2 {
@@ -18,11 +19,9 @@ generic-text p {
 
 }
 
-@media(min-width: 700px) {
-	.description {
-		grid-column: 1;
-	}
+@media(min-width: 1000px) {
 	.caption {
-		grid-column: 2;
+		opacity: 0.7;
+		font-style: italic;
 	}
 }

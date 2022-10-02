@@ -28,7 +28,7 @@
 		</picture>
 
 
-		
+			<?=$description?>
 
 </generic-text>
 
@@ -36,7 +36,7 @@
 	<?=$caption?>	
 <?php } ?>
 
-<?=$description?>
+
 
 
 

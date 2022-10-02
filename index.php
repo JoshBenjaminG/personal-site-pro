@@ -18,9 +18,3 @@ foreach($modules as $module) {
 }
 
 include('templates/modules/footer.php');
-
-
-
-
-
-
