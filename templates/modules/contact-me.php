@@ -6,13 +6,13 @@ $message = false;
 
 if(isset($_POST['submit'])) {
 	$to = "joshuaegage@gmail.com";
-    $subject = "Form submission";
+    $subject = "Personal site message";
 
 	if (strlen($_POST['name']) > 0) {
 		$name = $_POST['name'];
 	}
 	if (strlen($_POST['message']) > 0) {
-		$message = $name . " wrote:" . "\n\n" . $_POST['message'];
+		$message = $name . " wrote:" . "\n\n" . $_POST['message'] . "\n\n" . "The email is: " . $_POST['email'];
 	}
     if ($message) {
     	mail($to, $subject, $message);
