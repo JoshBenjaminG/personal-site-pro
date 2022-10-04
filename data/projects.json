@@ -44,6 +44,11 @@
                     "img": "images/project-image-functions.jpg",
                     "caption": "<p class='caption'>'The important part is that the code works' - Abraham Lincoln</p>",
                     "description": "<p>When I was done with the basic layout, I added a little bit of CRUD functionality. Does this site really need it? Not really... but I need the PHP practice. This basically allows you to add and remove article cards. Could be a decent basis for a CMS though! But a regular CMS would be better for this type of project, or no CMS at all! It's just a basic landing page, maybe the owner doesn't need to control everything...</p>"
+                },
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
                 }
             ]
         }
@@ -67,38 +72,43 @@
                 {
                     "module": "image",
                     "img": "images/trimmed-images/research1.jpg",
-                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
-                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                    "caption": "<p class='caption'>The primary inspiration for this project came from Gucci and Prada.</p>",
+                    "description": "<p>The first stage of this project came from researching different high-end fashion companies. I took a few exmaples of modules or cards to lead my design process for the landing page.</p>"
                 },
                 {
                     "module": "image",
                     "img": "images/trimmed-images/riche-fashion-research.jpg",
-                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
-                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                    "caption": "<p class='caption'>I got these images from Unslpash.com, and I keep a folder of imgaes like this just in case I need them to design a card around.</p>",
+                    "description": "<p>Modules need content! Just like with Croatian Coasts, I keep images like this in storage to pull out when needed, and what I don't have I get from free resources like Unsplash.com</p>"
                 },
                 {
                     "module": "image",
                     "img": "images/trimmed-images/tile1.jpg",
-                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
-                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                    "caption": "<p class='caption'>This is an example of a style tile. This serves as the foundation for the design moving forward. Cheap and effective soltions like this allow us to get user feedback quicker, instead of having to spend time creating a fully fleshed mockup to start.</p>",
+                    "description": "<p>I created a style tile like this to organize some of module designs, typography choices, and color and spacing ideas. As more modules get made, I can add those designs to the ones seen here.</p>"
                 },
                 {
                     "module": "image",
                     "img": "images/trimmed-images/layout1.jpg",
-                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
-                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                    "caption": "<p class='caption'>The landing page is very similar to the sites that inspired it. Compared to the original modules seen from Gucci and Prada, this gives a monocolored spin on the large blocky font and images to accentuate the models and clothing.</p>",
+                    "description": "<p></p>"
                 },
                 {
                     "module": "image",
                     "img": "images/project-image-rich101.jpg",
-                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
-                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                    "caption": "<p class='caption'>A quick example of item filtering. I check the value of what collection the item is included in and compare it to the collection number.</p>",
+                    "description": "<p></p>"
                 },
                 {
                     "module": "image",
                     "img": "images/project-image-riche100.jpg",
-                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
-                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                    "caption": "<p class='caption'>Once the items are compared, they are pushed into the new filtered array.</p>",
+                    "description": "<p>This project was a great exercise in designing a high-end fashion site. Some of the hardest problems were figuring out the filtering and choosing what content would be best. I may add more items or functionality in the future!</p>"
+                },
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/riche-fashion",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/"
                 }
             ]
         }
@@ -115,19 +125,16 @@
             "sections":
             [
                 {
-                    "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/e4p",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/e4p/"
+                    "module": "image",
+                    "img": "images/research-picture.jpg",
+                    "caption": "<p class='caption'>Unslpash has always been a good resource, and is usually where I get images for these projects from.</p>",
+                    "description": "<p>I like to begin the research phase by looking at content choices from free resources like Unslpash.com and websites that are similar to the niche I am looking at. In this image, I have added some images and sections taken from different websties to serve as a folder for inspiration.</p>"
                 },
                 {
-                    "module": "text",
-                    "heading": "Project Goals",
-                    "content": "<p class='calm-voice'>In this project, I wanted to improve my programming skills by following challenges in the book: 'Exercises for Programmers 4.'</p>"
-                },
-                {
-                    "module": "text",
-                    "heading": "Next steps",
-                    "content": "<p class='calm-voice'>This was a great project to learn with, and I am also going to read a book on algorithms called 'Grokking Algorithms' when I'm done completing these challenges.</p>"
+                    "module": "image",
+                    "img": "images/project-image-99.jpg",
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
                 }
             ]
         }
@@ -144,19 +151,16 @@
             "sections":
             [
                 {
-                    "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/e4p",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/e4p/"
+                    "module": "image",
+                    "img": "images/research-picture.jpg",
+                    "caption": "<p class='caption'>Unslpash has always been a good resource, and is usually where I get images for these projects from.</p>",
+                    "description": "<p>I like to begin the research phase by looking at content choices from free resources like Unslpash.com and websites that are similar to the niche I am looking at. In this image, I have added some images and sections taken from different websties to serve as a folder for inspiration.</p>"
                 },
                 {
-                    "module": "text",
-                    "heading": "Project Goals",
-                    "content": "<p class='calm-voice'>In this project, I wanted to improve my programming skills by following challenges in the book: 'Exercises for Programmers 4.'</p>"
-                },
-                {
-                    "module": "text",
-                    "heading": "Next steps",
-                    "content": "<p class='calm-voice'>This was a great project to learn with, and I am also going to read a book on algorithms called 'Grokking Algorithms' when I'm done completing these challenges.</p>"
+                    "module": "image",
+                    "img": "images/project-image-99.jpg",
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
                 }
             ]
         }
@@ -173,14 +177,10 @@
             "sections":
             [
                 {
-                    "module": "project-links",
-                    "github": "https://github.com/perpetual-education/crebbits-homepage",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/"
-                },
-                {
-                    "module": "text",
-                    "heading": "Project Goals",
-                    "content": "<p class='calm-voice'>This site is currently under construction: Crebbits releases this October.</p>"
+                    "module": "image",
+                    "img": "images/project-image10.png",
+                    "caption": "<p class='caption'>Work in progress. Releases October</p>",
+                    "description": "<p></p>"
                 }
             ]
         }
