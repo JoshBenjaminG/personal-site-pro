@@ -65,37 +65,40 @@
                     "site_link": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/"
                 },
                 {
-                    "module": "text",
-                    "heading": "Project Goals",
-                    "content": "<p class='calm-voice'>In this project, I wanted to produce a design that was based on my research of high-end fashion websites. I began by researching various sites like Prada and Gucci to see what visual language they used.</p>"
-                },
-                {
                     "module": "image",
-                    "heading": "The Research Phase",
                     "img": "images/trimmed-images/research1.jpg",
-                    "caption": "This is an example of that research",
-                    "description": "<p class='calm-voice'>From my research, I noticed that the sites I was finding tended to use large images of models to highlight the clothing they were wearing. I knew that image content choice for this site would be one of the most important steps - which is true for almost all sites, but especially true within the context of a fashion company. I took away that I should use minimal text and to communicate through images of the models when possible.</p>"
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
                 },
                 {
                     "module": "image",
-                    "heading": "Unslpash is king!",
                     "img": "images/trimmed-images/riche-fashion-research.jpg",
-                    "caption": "This is an example of that research",
-                    "description": "<p class='calm-voice'>Unsplash.come is a great resource for finding image content, and I decided to stick with images similar to what I was finding on sites like Prada and Gucci. I wanted bold colors and fashionable design choices to be the main focus of the site. I knew from the beginning that I wanted to stick with white background and black text for the pages, so finding images that had high color contrast was really important, as I didn't want to take away from the content by making the text or background of the page to be the focal point - in this project at least.</p>"
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
                 },
                 {
                     "module": "image",
-                    "heading": "The Style Tile Phase",
                     "img": "images/trimmed-images/tile1.jpg",
-                    "caption": "This is an example of that research",
-                    "description": "<p class='calm-voice'>Just like with this portfolio and the hotel projects, style tiles act as an important step in the design and development process. Tiles are a loosely created board of samples of what the design could look like. Tiles are a cheap and efficient way of presenting options to the client without having to go down the more costly route of jumping right to code mockups.</p> <p class='calm-voice'> User feedback is really important to strengthen the relationship between the client and the design and development team and create the best final product cheaply and quickly. I decided to present some elements such as buttons, item lists and cards, and landing elements to my mentors.</p>"
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
                 },
                 {
                     "module": "image",
-                    "heading": "The First Draft",
                     "img": "images/trimmed-images/layout1.jpg",
-                    "caption": "This is an example of that research",
-                    "description": "<p class='calm-voice'>With the userfeedback from the style tile phase in hand, I created the first version of the layout. I was pleased with the direction of the project, and was keeping many of the design choices I learned from other websites in mind.</p> <p class='calm-voice'>This still left another step to go: I had to create other pages, including the item lists and detail lists. I knew going in that I would have to learn quite a bit about databases and JSON - and accessing those items to show on the page. I was trying to make an ecommerce site without unique items and filters. It wouldn't be a cake walk.</p>"
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                },
+                {
+                    "module": "image",
+                    "img": "images/project-image-rich101.jpg",
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                },
+                {
+                    "module": "image",
+                    "img": "images/project-image-riche100.jpg",
+                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
+                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
                 }
             ]
         }

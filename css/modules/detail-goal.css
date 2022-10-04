@@ -1,11 +1,10 @@
 case-study inner-column .project-name {
   font-family: 'Merriweather', serif;
   font-size: 2.5rem;
-  margin-bottom: 10px;
 }
 
 case-study inner-column .module-section {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 case-study {
@@ -15,13 +14,14 @@ case-study {
 case-study-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 20px;
+
 }
 
 @media(min-width: 1000px){
   case-study-grid {
       display: grid;
       grid-template-columns: 2fr 1fr;
+      gap: 20px;
   }
   generic-text p, h2 {
     max-width: 60ch;
