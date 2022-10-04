@@ -13,11 +13,6 @@
     "module": "writing-intro"
   },
   {
-    "module": "text",
-    "heading" : "This is an example of a case study heading",
-    "content" : "<p class='calm-voice'>This could be a paragraph for the case study module content.</p>"
-  },
-  {
     "module": "resume-list",
     "header": "Resume Modules",
     "sections": [
@@ -42,5 +37,10 @@
         "content": "<li>Middle School English Teacher Internship | Jan 2022 - May 2022</li><li>Taught 8th Grade English in accordance with Alabama State English curriculum standards for half of the school year.</li>"
       }
     ]
+  },
+  {
+    "module": "image",
+    "heading" : "This is an example of a case study heading",
+    "content" : "<p class='calm-voice'>This could be a paragraph for the case study module content.</p>"
   }
 ]

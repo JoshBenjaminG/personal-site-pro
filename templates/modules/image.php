@@ -1,10 +1,10 @@
 <?php  
 
 
-	$heading = $section["heading"] ?? "";
-	$img = $section["img"] ?? "Project Image Img Module";
-	$caption = $section["caption"] ?? "";
-	$description = $section["description"] ?? "Project Image description Module";
+	$heading = $section["heading"] ?? "Image case study heading";
+	$img = $section["img"] ?? "images/research-picture.jpg";
+	$caption = $section["caption"] ?? "<p class='calm-voice'>Images sometimes need captions!</p>";
+	$description = $section["description"] ?? "<p class='calm-voice'>Images sometimes need descriptions!</p>";
 	$second_img = $section["second_img"] ?? "";
 
 ?>
@@ -34,17 +34,6 @@
 
 <?php if ($caption) { ?>
 	<?=$caption?>	
-<?php } ?>
-
-
-
-
-
-
-<?php if ($second_img) { ?>
-	<picture>
-		<img src="<=$second_imgsecond_img?>" alt="">
-	</picture>
 <?php } ?>
 
 <?php if ($page == 'style-guide') { ?>

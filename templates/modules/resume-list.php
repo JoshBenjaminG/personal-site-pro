@@ -25,8 +25,6 @@ $sections = $module["sections"];
 			</section>
 			</resume-grid>
 		<?php } ?>	
+</inner-column>
 
-
-
-	</inner-column>
 </section>
