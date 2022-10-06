@@ -1,7 +1,7 @@
 <?php  
 
 
-	$heading = $section["heading"] ?? "Image case study heading";
+	$heading = $section["heading"] ?? "";
 	$img = $section["img"] ?? "images/research-picture.jpg";
 	$caption = $section["caption"] ?? "<p class='calm-voice'>Images sometimes need captions!</p>";
 	$description = $section["description"] ?? "<p class='calm-voice'>Images sometimes need descriptions!</p>";

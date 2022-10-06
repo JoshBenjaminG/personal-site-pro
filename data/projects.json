@@ -125,16 +125,10 @@
             "sections":
             [
                 {
-                    "module": "image",
-                    "img": "images/research-picture.jpg",
-                    "caption": "<p class='caption'>Unslpash has always been a good resource, and is usually where I get images for these projects from.</p>",
-                    "description": "<p>I like to begin the research phase by looking at content choices from free resources like Unslpash.com and websites that are similar to the niche I am looking at. In this image, I have added some images and sections taken from different websties to serve as a folder for inspiration.</p>"
-                },
-                {
-                    "module": "image",
-                    "img": "images/project-image-99.jpg",
-                    "caption": "<p class='caption'>Eric Meyer knows a lot about CSS, and this is a really good reset. You need a good reset to reduce browser inconsistencies. The link to the reset can be found <a href='https://meyerweb.com/eric/tools/css/reset/'>here.</a></p>",
-                    "description": "<p>This is the first mockup where I get a layout in place. I've done several of these as practice. This boilerplate contains the basic file structure as well, such as a css folder that contains typography choices, structure, and a css reset so that there are no default styles. Of course, there is some sort of default so you have to make some choices as to what things should look like. In this case, I am using the Meyer CSS reset.</p>"
+                    "module": "coding-form",
+                    "img": "",
+                    "caption": "<p class='caption'></p>",
+                    "description": "<p></p>"
                 }
             ]
         }
