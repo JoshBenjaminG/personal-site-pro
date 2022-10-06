@@ -15,14 +15,18 @@ $content = $module["content"];
 
 ?>
 
-<section class='get-involved'>
-	<inner-column>
 
+
+<section class='get-involved'>
+
+	<inner-column>
+	<intro-grid>
 		<call-to-action>
 			<h2 class='loud-voice'><?=$header?></h2>
 
 			<p class='calm-voice'><?=$content?></p>
 		</call-to-action>
-
+	</intro-grid>
 	</inner-column>
+
 </section>

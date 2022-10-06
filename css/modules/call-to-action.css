@@ -1,11 +1,16 @@
+intro-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+}
 
 call-to-action {
   display: block;
   
-  /* */
+  
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+
   
 }
 
@@ -22,7 +27,7 @@ call-to-action p {
 }
 
 call-to-action p {
-  max-width: 64ch;
+
 }
 
 call-to-action p + p {
@@ -48,10 +53,11 @@ call-to-action .attention-voice {
  
 }
 
-@media (min-width: 600px) {
-  call-to-action {
-    
-  }
+@media (min-width: 900px) {
+intro-grid {
+
+  grid-template-columns: 2fr 1fr;
+}
 }
 
 call-to-action span {
