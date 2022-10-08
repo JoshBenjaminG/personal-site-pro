@@ -113,31 +113,6 @@
             ]
         }
     },
-    {
-        "heading": "Coding Exercises",
-        "technologies": "HTML, PHP, CSS",
-        "description": "Solutions to a book full of challenges designed to develop your programming skills.",
-        "thumbnail": "images/project-image1.jpg",
-        "url": "https://peprojects.dev/alpha-3/josh/projects/e4p/",
-        "slug": "678",
-        "case-study":
-        {
-            "sections":
-            [
-                {
-                    "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
-                },
-                {
-                    "module": "coding-form",
-                    "img": "",
-                    "caption": "<p class='caption'></p>",
-                    "description": "<p></p>"
-                }
-            ]
-        }
-    },
    {
         "heading": "Responsive Module Garden",
         "technologies": "HTML, PHP, CSS",
@@ -177,6 +152,66 @@
                     "img": "images/figma-image4.jpg",
                     "caption": "<p class='caption'>An example of JSON for two modules that populates templates like the one seen above.</p>",
                     "description": "<p>This project taught me a lot about scope and planning. I learned that I could tie CSS rules to the JSON as well, and that allows me to set unique CSS depending on the page. I used grid extensively on this project and that proved to be extremely useful! Splitting the page into seperate modules allowed me to use JSON to give them distinct text and CSS.</p>"
+                }
+            ]
+        }
+    },
+    {
+        "heading": "Weather Checker",
+        "technologies": "JS, HTML, CSS",
+        "description": "A forray into implementing an API using Javascript.",
+        "thumbnail": "images/project-image2.jpg",
+        "url": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/",
+        "slug": "345",
+        "case-study":
+        {
+            "sections":
+            [
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/riche-fashion",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/"
+                },
+                {
+                    "module": "image",
+                    "img": "images/trimmed-images/research1.jpg",
+                    "caption": "<p class='caption'>The primary inspiration for this project came from Gucci and Prada.</p>",
+                    "description": "<p>The first stage of this project came from researching different high-end fashion companies. I took a few exmaples of modules or cards to lead my design process for the landing page.</p>"
+                },
+                {
+                    "module": "image",
+                    "img": "images/trimmed-images/riche-fashion-research.jpg",
+                    "caption": "<p class='caption'>I got these images from Unslpash.com, and I keep a folder of imgaes like this just in case I need them to design a card around.</p>",
+                    "description": "<p>Modules need content! Just like with Croatian Coasts, I keep images like this in storage to pull out when needed, and what I don't have I get from free resources like Unsplash.com</p>"
+                },
+                {
+                    "module": "image",
+                    "img": "images/trimmed-images/tile1.jpg",
+                    "caption": "<p class='caption'>This is an example of a style tile. This serves as the foundation for the design moving forward. Cheap and effective soltions like this allow us to get user feedback quicker, instead of having to spend time creating a fully fleshed mockup to start.</p>",
+                    "description": "<p>I created a style tile like this to organize some of module designs, typography choices, and color and spacing ideas. As more modules get made, I can add those designs to the ones seen here.</p>"
+                },
+                {
+                    "module": "image",
+                    "img": "images/trimmed-images/layout1.jpg",
+                    "caption": "<p class='caption'>The landing page is very similar to the sites that inspired it. Compared to the original modules seen from Gucci and Prada, this gives a monocolored spin on the large blocky font and images to accentuate the models and clothing.</p>",
+                    "description": "<p></p>"
+                },
+                {
+                    "module": "image",
+                    "img": "images/project-image-rich101.jpg",
+                    "caption": "<p class='caption'>A quick example of item filtering. I check the value of what collection the item is included in and compare it to the collection number.</p>",
+                    "description": "<p></p>"
+                },
+                {
+                    "module": "image",
+                    "img": "images/project-image-riche100.jpg",
+                    "caption": "<p class='caption'>Once the items are compared, they are pushed into the new filtered array.</p>",
+                    "description": "<p>This project was a great exercise in designing a high-end fashion site. Some of the hardest problems were figuring out the filtering and choosing what content would be best. I may add more items or functionality in the future!</p>"
+                },
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/riche-fashion",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/"
                 }
             ]
         }
