@@ -11,12 +11,16 @@ generic-text picture {
 	margin-bottom: 20px;
 }
 
+generic-text p {
+
+}
+
 generic-text h2 {
 
 }
 
 .caption {
- 	margin-top: 20px;
+ 	margin: 20px 0px;
 }
 
 @media(min-width: 1000px) {
@@ -24,5 +28,10 @@ generic-text h2 {
 		opacity: 0.7;
 		font-style: italic;
 		margin-top: 0px;
+		font-size: 1rem;
+	}
+	generic-text p {
+		margin: 30px 0px;
+		line-height: 1.9;
 	}
 }

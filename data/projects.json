@@ -157,61 +157,44 @@
         }
     },
     {
-        "heading": "Weather Checker",
+        "heading": "Weather Forecast",
         "technologies": "JS, HTML, CSS",
         "description": "A forray into implementing an API using Javascript.",
-        "thumbnail": "images/project-image2.jpg",
-        "url": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/",
-        "slug": "345",
+        "thumbnail": "images/weather-api-image1.jpg",
+        "url": "https://peprojects.dev/alpha-3/josh/projects/weatherapi/",
+        "slug": "098",
         "case-study":
         {
             "sections":
             [
                 {
                     "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/riche-fashion",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/"
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/weatherapi",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/weatherapi/"
+                },
+               {
+                    "module": "image",
+                    "img": "images/weather-api-image3.jpg",
+                    "caption": "<p class='caption'>This API is from weatherapi.com and the developer subscription is $4/month.</p>",
+                    "description": "<p>When I'm messing around with a new api, I like to just make the call in my browser. I downloaded an extension a while ago that formats json in the browser to make it more readable. Taking a first look around is good for powerful APIs like this with so many options. Knowing what the API can do can guide my thinking in terms of what I want to show the end user.</p>"
+                },
+               {
+                    "module": "image",
+                    "img": "images/weather-api-image4.jpg",
+                    "caption": "<p class='caption'>The console is my best friend when it comes to navigating an API!</p>",
+                    "description": "<p>Mobile first design is where I start, and while creating an application like this I make sure to log the response in the console. Before I render some information to the screen, I want to drill down the data structure and log that first just to isolate it. Then I'll start rendering it and styling it. I'll repeat this process as many times as I need until I've finished putting the elements where they need to be and having the cards look like how they should look.</p>"
                 },
                 {
                     "module": "image",
-                    "img": "images/trimmed-images/research1.jpg",
-                    "caption": "<p class='caption'>The primary inspiration for this project came from Gucci and Prada.</p>",
-                    "description": "<p>The first stage of this project came from researching different high-end fashion companies. I took a few exmaples of modules or cards to lead my design process for the landing page.</p>"
-                },
-                {
-                    "module": "image",
-                    "img": "images/trimmed-images/riche-fashion-research.jpg",
-                    "caption": "<p class='caption'>I got these images from Unslpash.com, and I keep a folder of imgaes like this just in case I need them to design a card around.</p>",
-                    "description": "<p>Modules need content! Just like with Croatian Coasts, I keep images like this in storage to pull out when needed, and what I don't have I get from free resources like Unsplash.com</p>"
-                },
-                {
-                    "module": "image",
-                    "img": "images/trimmed-images/tile1.jpg",
-                    "caption": "<p class='caption'>This is an example of a style tile. This serves as the foundation for the design moving forward. Cheap and effective soltions like this allow us to get user feedback quicker, instead of having to spend time creating a fully fleshed mockup to start.</p>",
-                    "description": "<p>I created a style tile like this to organize some of module designs, typography choices, and color and spacing ideas. As more modules get made, I can add those designs to the ones seen here.</p>"
-                },
-                {
-                    "module": "image",
-                    "img": "images/trimmed-images/layout1.jpg",
-                    "caption": "<p class='caption'>The landing page is very similar to the sites that inspired it. Compared to the original modules seen from Gucci and Prada, this gives a monocolored spin on the large blocky font and images to accentuate the models and clothing.</p>",
+                    "img": "images/weather-api-image2.jpg",
+                    "caption": "<p class='caption'>Just some basic flex box styling. Using grid could make the layout more dynamic but flex does the job.</p>",
                     "description": "<p></p>"
                 },
-                {
+               {
                     "module": "image",
-                    "img": "images/project-image-rich101.jpg",
-                    "caption": "<p class='caption'>A quick example of item filtering. I check the value of what collection the item is included in and compare it to the collection number.</p>",
-                    "description": "<p></p>"
-                },
-                {
-                    "module": "image",
-                    "img": "images/project-image-riche100.jpg",
-                    "caption": "<p class='caption'>Once the items are compared, they are pushed into the new filtered array.</p>",
-                    "description": "<p>This project was a great exercise in designing a high-end fashion site. Some of the hardest problems were figuring out the filtering and choosing what content would be best. I may add more items or functionality in the future!</p>"
-                },
-                {
-                    "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/riche-fashion",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/riche-fashion/"
+                    "img": "images/weather-api-image5.jpg",
+                    "caption": "<p class='caption'></p>",
+                    "description": "<p>Working out stock Javascript templating is a bit of a chore, but I have fun doing it! I feel like working with APIs is like solving a puzzle. Of course, only one thing needs to go wrong to break the entire template - but when it works - it's so satisfying!</p>"
                 }
             ]
         }
