@@ -98,6 +98,11 @@
                     "img": "images/weather-api-image5.jpg",
                     "caption": "<p class='caption'></p>",
                     "description": "<p>Working out stock Javascript templating is a bit of a chore, but I have fun doing it! I feel like working with APIs is like solving a puzzle. Of course, only one thing needs to go wrong to break the entire template - but when it works - it's so satisfying!</p>"
+                },
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/weatherapi",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/weatherapi/"
                 }
             ]
         }
@@ -152,16 +157,21 @@
                     "module": "project-links",
                     "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
                     "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
+                },
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
                 }
             ]
         }
     },
     {
-        "heading": "Portfolio v4",
+        "heading": "Portfolio v5",
         "technologies": "PHP, HTML, CSS",
         "description": "A case study of how the sausage is made - over 4 iterations. A ton of JSON-backed, Modular PHP components, stacked on top of each other!",
         "thumbnail": "images/portfolio-image1.jpg",
-        "url": "https://peprojects.dev/alpha-3/josh/projects/weatherapi/",
+        "url": "https://peprojects.dev/alpha-3/josh/",
         "slug": "098",
         "case-study":
         {
@@ -170,7 +180,7 @@
                 {
                     "module": "project-links",
                     "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/weatherapi",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/weatherapi/"
+                    "site_link": "https://peprojects.dev/alpha-3/josh/"
                 },
                {
                     "module": "image",
@@ -195,6 +205,11 @@
                     "img": "images/weather-api-image5.jpg",
                     "caption": "<p class='caption'></p>",
                     "description": "<p>Working out stock Javascript templating is a bit of a chore, but I have fun doing it! I feel like working with APIs is like solving a puzzle. Of course, only one thing needs to go wrong to break the entire template - but when it works - it's so satisfying!</p>"
+                },
+               {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/weatherapi",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/"
                 }
             ]
         }
@@ -238,6 +253,11 @@
                     "img": "images/figma-image4.jpg",
                     "caption": "<p class='caption'>An example of JSON for two modules that populates templates like the one seen above.</p>",
                     "description": "<p>This project taught me a lot about scope and planning. I learned that I could tie CSS rules to the JSON as well, and that allows me to set unique CSS depending on the page. I used grid extensively on this project and that proved to be extremely useful! Splitting the page into seperate modules allowed me to use JSON to give them distinct text and CSS.</p>"
+                },
+                {
+                    "module": "project-links",
+                    "github": "https://github.com/JoshBenjaminG/figma",
+                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/figma-conversion/"
                 }
             ]
         }
