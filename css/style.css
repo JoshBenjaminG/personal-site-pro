@@ -54,7 +54,7 @@ html {
 }
 
 body {
-	background-color: #fefff3;
+	background-color: #fffffb;
 }
 
 
@@ -81,7 +81,7 @@ body {
 
 /* OK! SITE STYLES! */
 .site-header {
-  background-color: #fefff7;
+  background-color: #fff4f3;
   color: var(--white);
 }
 
