@@ -66,7 +66,7 @@
             [
                 {
                     "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/weatherapi",
+                    "github": "https://github.com/JoshBenjaminG/personal-site-pro",
                     "site_link": "https://peprojects.dev/alpha-3/josh/"
                 },
                {
@@ -119,7 +119,7 @@
                 },
                {
                     "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/pe-projects/tree/master/projects/weatherapi",
+                    "github": "https://github.com/JoshBenjaminG/personal-site-pro",
                     "site_link": "https://peprojects.dev/alpha-3/josh/"
                 }
             ]
@@ -186,7 +186,7 @@
             [
                 {
                     "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
+                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge/tree/main/layout-theme-challenge",
                     "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
                 },
                 {
@@ -221,12 +221,7 @@
                 },
                 {
                     "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
-                    "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
-                },
-                {
-                    "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge",
+                    "github": "https://github.com/JoshBenjaminG/Theme-Challenge/tree/main/layout-theme-challenge",
                     "site_link": "https://peprojects.dev/alpha-3/josh/projects/layout-theme-challenge/"
                 }
             ]
@@ -245,7 +240,7 @@
             [
                 {
                     "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/figma",
+                    "github": "https://github.com/JoshBenjaminG/figma/tree/main/figma-conversion",
                     "site_link": "https://peprojects.dev/alpha-3/josh/projects/figma-conversion/"
                 },
                 {
@@ -274,7 +269,7 @@
                 },
                 {
                     "module": "project-links",
-                    "github": "https://github.com/JoshBenjaminG/figma",
+                    "github": "https://github.com/JoshBenjaminG/figma/tree/main/figma-conversion",
                     "site_link": "https://peprojects.dev/alpha-3/josh/projects/figma-conversion/"
                 }
             ]

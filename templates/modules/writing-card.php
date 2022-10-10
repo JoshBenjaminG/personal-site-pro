@@ -1,5 +1,5 @@
 <writing-card>
-	<a href="<?=$article["url"]?>">
+	<a href="<?=$article["url"]?>" target="_blank">
 
 	<h2 class='attention-voice'><?=$article["heading"]?></h2>
 
