@@ -17,13 +17,13 @@ call-to-action {
 call-to-action h2 {
   opacity: 0;
   animation: upFadeIn 0.5s forwards ease-in-out;
-  animation-delay: .6s;
+  animation-delay: .4s;
 }
 
 call-to-action p {
   opacity: 0;
   animation: upFadeIn 0.5s forwards ease-in-out;
-  animation-delay: .8s;
+  animation-delay: .4s;
 }
 
 call-to-action p {

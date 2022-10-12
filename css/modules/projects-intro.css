@@ -7,7 +7,7 @@ projects-intro header {
   max-width: 60ch;
   opacity: 0;
   animation: upFadeIn 0.5s forwards ease-in-out;
-  animation-delay: .8s;
+  animation-delay: .7s;
 }
 
 projects-intro project-grid {
