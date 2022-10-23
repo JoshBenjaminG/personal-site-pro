@@ -28,13 +28,13 @@ projects-intro header h2 {
  
 }
 
-@media(min-width: 600px){
+@media(min-width: 700px){
  projects-intro project-grid {
     grid-template-columns: 1fr 1fr;
   }
 }
 
-@media(min-width: 900px){
+@media(min-width: 1000px){
   projects-intro project-grid {
     grid-template-columns: 1fr 1fr 1fr;
   }
